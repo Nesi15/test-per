@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Test PER</title>
+  <meta name="description" content="Practica los tests del examen de Patrón de Embarcaciones de Recreo, también sin conexión.">
+  <meta name="theme-color" content="#0b3d5c">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Test PER">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button id="btn-home" class="icon-btn" aria-label="Inicio" hidden>‹</button>
+    <h1 id="title">Test PER</h1>
+    <span id="topbar-extra"></span>
+  </header>
+  <main id="app" aria-live="polite">
+    <p class="loading">Cargando preguntas…</p>
+  </main>
+
+  <dialog id="modal">
+    <form method="dialog" class="modal-body">
+      <h2 id="modal-title"></h2>
+      <div id="modal-content"></div>
+      <div class="modal-actions" id="modal-actions"></div>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
