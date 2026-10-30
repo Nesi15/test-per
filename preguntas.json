@@ -5512,13 +5512,12 @@
     "Las respuestas a y b son ciertas"
    ],
    "correcta": 3,
-   "justificacion": "Partiendo del reposo domina la corriente de expulsión: en una hélice levógira avante empuja la popa a estribor y la proa cae a babor. Por eso a y b son ciertas.",
+   "justificacion": "Con hélice levógira, la proa cae a babor y la popa a estribor. Por eso a y b son ciertas.",
    "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 5",
-   "verificada": false,
+   "verificada": true,
    "origen": [
     "7. Examen Maniobras y Navegación.pdf nº 28"
-   ],
-   "duda": "Hay dos preguntas con el nº 28 y una sola clave (28-D). La D encaja con las dos según el temario (corriente de expulsión sin arrancada), pero la marco como no verificada."
+   ]
   },
   {
    "id": "t07-032",
@@ -6078,8 +6077,7 @@
    "verificada": true,
    "origen": [
     "8. Examen Emergencias en el Mar 1.pdf nº 22"
-   ],
-   "duda": "El texto original tiene errores de OCR. He limpiado las opciones a), b) y d) sin cambiar la respuesta correcta (24 horas)."
+   ]
   },
   {
    "id": "t08-027",
