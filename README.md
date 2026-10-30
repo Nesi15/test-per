@@ -50,6 +50,7 @@ img/                   Imágenes de las preguntas (si las hay)
 ```
 
 - `correcta` es el índice (empezando en 0) de la opción correcta dentro de `opciones`.
+- `tambien_correctas` es opcional: lista de otros índices que también se dan por buenos (por ejemplo `[3]` en una pregunta ambigua).
 - `imagen` es opcional. Pon el archivo en `img/` y escribe la ruta relativa.
 - `verificada: false` indica que la respuesta se dedujo del temario porque el examen no traía solución.
 - Las opciones se barajan solas. «Todas/Ninguna de las anteriores» se queda en su sitio, y las preguntas con opciones tipo «a y b son correctas» no se barajan.

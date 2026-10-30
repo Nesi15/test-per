@@ -5874,13 +5874,14 @@
     "Todas son correctas"
    ],
    "correcta": 1,
+   "tambien_correctas": [3],
    "justificacion": "La llamada de socorro se hace antes, al decidir el abandono. En el momento de abandonar toca abrigarse, ponerse el chaleco y amarrar la boza de la balsa.",
    "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 9",
    "verificada": true,
    "origen": [
     "8. Examen Emergencias en el Mar 1.pdf nº 11"
    ],
-   "duda": "La clave marca la b, pero la profesora dijo en clase que esta pregunta se podría anular por confusa: también se podría marcar la d (todas son correctas), porque pedir auxilio se puede entender como parte del abandono."
+   "duda": "La clave marca la b, pero la profesora dijo en clase que esta pregunta se podría anular por confusa: también se podría marcar la d (todas son correctas), porque pedir auxilio se puede entender como parte del abandono. Aquí se dan por buenas la b y la d."
   },
   {
    "id": "t08-016",

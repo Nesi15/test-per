@@ -409,7 +409,7 @@ VIEWS.test = () => {
   perm.forEach((orig, pos) => {
     let cls = '';
     if (a) {
-      if (reveal && orig === q.correcta) cls = 'correct';
+      if (reveal && (orig === q.correcta || (orig === a.c && a.ok))) cls = 'correct';
       else if (reveal && orig === a.c) cls = 'wrong';
       else if (!reveal && orig === a.c) cls = 'chosen';
     }
@@ -433,6 +433,11 @@ VIEWS.test = () => {
   if (sess.limit) startTimer();
 };
 
+/* "tambien_correctas" (opcional): otras opciones que también se dan por buenas. */
+function isCorrect(q, orig) {
+  return orig === q.correcta || (q.tambien_correctas || []).includes(orig);
+}
+
 function feedbackHTML(q, ok) {
   return `<div class="feedback ${ok ? 'ok' : 'ko'}">
     <strong>${ok ? '¡Correcto!' : `Incorrecto. La correcta es: ${esc(q.opciones[q.correcta])}`}</strong>
@@ -447,7 +452,7 @@ function answer(orig) {
   const sess = S.session;
   if (!sess || sess.ans[sess.idx]) return;
   const q = BY_ID[sess.ids[sess.idx]];
-  const ok = orig === q.correcta;
+  const ok = isCorrect(q, orig);
   sess.ans[sess.idx] = { c: orig, ok };
   record(q.id, ok);
   save();                                   // guardado inmediato tras cada respuesta
