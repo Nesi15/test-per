@@ -1522,14 +1522,13 @@
     "Nunca nos acercaremos, es mejor echarle un aro, que lo coja y cobrar para subirlo a bordo."
    ],
    "correcta": 1,
-   "justificacion": "Según la clave del examen, la aproximación se hace por barlovento del náufrago: el casco le da socaire y el abatimiento acerca el barco a él sin pasarle por encima.",
+   "justificacion": "La aproximación se hace por barlovento del náufrago: el casco le da socaire y el abatimiento acerca el barco a él sin pasarle por encima.",
    "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 10",
    "verificada": true,
    "origen": [
     "3. Examen Seguridad 1.pdf nº 1",
     "3. Examen Seguridad 1.pdf nº 9"
-   ],
-   "duda": "La clave dice barlovento. Algunos manuales recomiendan sotavento en barcos a motor. El temario no lo aclara."
+   ]
   },
   {
    "id": "t03-002",
