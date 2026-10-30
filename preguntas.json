@@ -2952,13 +2952,12 @@
     "El oeste."
    ],
    "correcta": 0,
-   "justificacion": "Dos conos con el vértice hacia abajo es la cardinal Sur: las aguas seguras están al sur. La clave da \"el norte\" entendiendo \"dejarla al norte de nosotros\", es decir, pasar por su sur.",
-   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "justificacion": "Dos conos con el vértice hacia abajo es la cardinal Sur. Las cardinales se pasan por el punto que indican y se dejan por el opuesto: se pasa por su sur y se deja por el norte.",
+   "fuente": "Resumen 5 (1) Balizamiento.pdf, pág. 4",
    "verificada": true,
    "origen": [
     "5. Examen Balizamiento .pdf nº 3"
-   ],
-   "duda": "La clave da \"el norte\" para la cardinal Sur. Solo encaja si \"dejarse por el norte\" significa que la marca queda al norte del barco. En la 5-23 y la 5-28 la misma marca se pasa por el sur. Revisar."
+   ]
   },
   {
    "id": "t05-004",
