@@ -2128,13 +2128,12 @@
     "Hacerlo en el momento del peligro."
    ],
    "correcta": 3,
-   "justificacion": "La clave del examen da la d: usar las señales en el momento del peligro, cuando puedan ser vistas. El temario indica además encenderlas por sotavento.",
+   "justificacion": "La d es la más correcta: lo primero es usar las bengalas y cohetes solo en el momento del peligro, cuando sirven para que nos vean. Encenderlas por sotavento (a) también es una buena precaución, pero la d tiene prioridad.",
    "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 9",
    "verificada": true,
    "origen": [
     "3. Examen Seguridad 1.pdf nº 47"
-   ],
-   "duda": "La clave da la d (\"en el momento del peligro\"), pero el temario (Unidad 3, pág. 7) insiste en encender las bengalas por sotavento (opción a). Revisar."
+   ]
   },
   {
    "id": "t03-035",
@@ -4919,13 +4918,12 @@
     "Ninguna respuesta es cierta"
    ],
    "correcta": 3,
-   "justificacion": "Según la clave, ninguna es cierta. La señal de duda (5 cortas) es de la Regla 34 para buques a la vista, y con niebla rigen las señales de la Regla 35.",
-   "fuente": "Unidad 6 Ripa 1.pdf, pág. 30",
+   "justificacion": "Ninguna es cierta. El temario recoge las cinco pitadas cortas como señal de duda en los canales angostos (el buque alcanzado que no está de acuerdo con el adelantamiento). Con niebla se usan las señales de visibilidad reducida, y ninguna son cinco cortas.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 10",
    "verificada": true,
    "origen": [
     "6. Examen Ripa 1.pdf nº 69"
-   ],
-   "duda": "La clave da \"ninguna\". Si se ha avistado el buque, 5 cortas sería la señal de duda (a). Pregunta ambigua."
+   ]
   },
   {
    "id": "t06-068",
