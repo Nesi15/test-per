@@ -68,6 +68,40 @@
    }
   ]
  },
+ "examen_pnb": {
+  "fuente": "RD 875/2014 (Anexo II) y convocatorias PNB 2025 y 2026 de Melilla (BOME-P-2025-2740 y BOME-P-2026-1183)",
+  "preguntas": 27,
+  "duracion_min": 45,
+  "aciertos_min": 17,
+  "bloques": [
+   {
+    "tema": 1,
+    "n": 4
+   },
+   {
+    "tema": 2,
+    "n": 2
+   },
+   {
+    "tema": 3,
+    "n": 4
+   },
+   {
+    "tema": 4,
+    "n": 2
+   },
+   {
+    "tema": 5,
+    "n": 5,
+    "max_fallos": 2
+   },
+   {
+    "tema": 6,
+    "n": 10,
+    "max_fallos": 5
+   }
+  ]
+ },
  "preguntas": [
   {
    "id": "t01-001",
@@ -5872,7 +5906,9 @@
     "Todas son correctas"
    ],
    "correcta": 1,
-   "tambien_correctas": [3],
+   "tambien_correctas": [
+    3
+   ],
    "justificacion": "La llamada de socorro se hace antes, al decidir el abandono. En el momento de abandonar toca abrigarse, ponerse el chaleco y amarrar la boza de la balsa.",
    "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 9",
    "verificada": true,

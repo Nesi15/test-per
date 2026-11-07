@@ -153,14 +153,19 @@ function makePerm(q) {
 
 /* ---------------- Simulacro ---------------- */
 
-function examPlan() {
-  const ex = DATA.examen;
+/* kind: 'per' (DATA.examen) o 'pnb' (DATA.examen_pnb). */
+function examConf(kind) {
+  return kind === 'pnb' ? DATA.examen_pnb : DATA.examen;
+}
+
+function examPlan(kind = 'per') {
+  const ex = examConf(kind);
   const bloques = ex.bloques.filter(b => (BY_TEMA[b.tema] || []).length >= b.n);
   const total = bloques.reduce((a, b) => a + b.n, 0);
   const completo = total === ex.preguntas;
   const maxFallosOficial = ex.preguntas - ex.aciertos_min;
   return {
-    bloques, total, completo,
+    ex, bloques, total, completo, maxFallosOficial,
     faltan: ex.bloques.filter(b => !bloques.includes(b)).map(b => b.tema),
     minutos: completo ? ex.duracion_min : Math.round(ex.duracion_min * total / ex.preguntas),
     maxFallos: completo ? maxFallosOficial : Math.floor(maxFallosOficial * total / ex.preguntas),
@@ -177,6 +182,7 @@ function startSession(mode, ids, opts = {}) {
     title: opts.title || 'Test',
     instant: opts.instant !== false,
     limit: opts.limit || null,
+    exam: opts.exam || null,
     elapsed: 0,
     created: Date.now(),
   };
@@ -224,6 +230,7 @@ VIEWS.home = () => {
   $title.textContent = 'Test PER';
   const nFall = Object.values(S.q).filter(x => x.rev).length;
   const plan = examPlan();
+  const planPNB = DATA.examen_pnb ? examPlan('pnb') : null;
   const sess = S.session;
   let html = '';
   if (sess) {
@@ -245,7 +252,8 @@ VIEWS.home = () => {
     <button class="menu-btn" data-go="setupTema"><span class="ico">📚</span><span><strong>Por tema</strong><span class="sub">Elige uno o varios temas</span></span></button>
     <button class="menu-btn" data-go="setupRandom"><span class="ico">🎲</span><span><strong>Aleatorio</strong><span class="sub">N preguntas de todos los temas</span></span></button>
     <button class="menu-btn" data-go="setupFalladas" ${nFall ? '' : 'disabled'}><span class="ico">🔁</span><span><strong>Repasar falladas</strong><span class="sub">${nFall ? 'Salen al acertarlas 2 veces seguidas' : 'No tienes falladas pendientes'}</span></span>${nFall ? `<span class="badge">${nFall}</span>` : ''}</button>
-    <button class="menu-btn" data-go="setupExam"><span class="ico">⏱️</span><span><strong>Simulacro de examen</strong><span class="sub">${plan.total} preguntas · ${plan.minutos} min</span></span></button>
+    <button class="menu-btn" data-go="setupExam"><span class="ico">⏱️</span><span><strong>Simulacro de examen PER</strong><span class="sub">${plan.total} preguntas · ${plan.minutos} min</span></span></button>
+    ${planPNB ? `<button class="menu-btn" data-go="setupExamPNB"><span class="ico">⛵</span><span><strong>Simulacro PNB</strong><span class="sub">Temas 1 a 6 · ${planPNB.total} preguntas · ${planPNB.minutos} min</span></span></button>` : ''}
     <button class="menu-btn" data-go="progress"><span class="ico">📈</span><span><strong>Mi progreso</strong><span class="sub">Por tema, exportar o importar</span></span></button>
   </nav>
   <p class="muted small" style="text-align:center;margin-top:24px">${DATA.preguntas.length} preguntas · temas ${temasDisponibles().join(', ')}</p>`;
@@ -350,35 +358,40 @@ VIEWS.setupFalladas = () => {
   }, !ids.length);
 };
 
-VIEWS.setupExam = () => {
-  $title.textContent = 'Simulacro';
-  const p = examPlan();
-  const ex = DATA.examen;
+function setupExam(kind) {
+  const p = examPlan(kind);
+  const ex = p.ex;
+  $title.textContent = kind === 'pnb' ? 'Simulacro PNB' : 'Simulacro PER';
   const rows = ex.bloques.map(b => {
     const ok = p.bloques.includes(b);
     return `<tr${ok ? '' : ' style="opacity:.45"'}><td>${b.tema}. ${esc(temaName(b.tema))}</td><td class="num">${b.n}</td><td class="num">${b.max_fallos != null ? b.max_fallos : '—'}</td></tr>`;
   }).join('');
+  const limitados = ex.bloques.filter(b => b.max_fallos != null).map(b => temaName(b.tema));
   $app.innerHTML = `
     <div class="card">
-      <h2>Formato oficial del PER</h2>
-      <p class="muted">${ex.preguntas} preguntas, ${ex.duracion_min} minutos. Apto con al menos ${ex.aciertos_min} aciertos y sin superar el máximo de fallos de RIPA, Balizamiento y Carta.</p>
+      <h2>Formato oficial del ${kind === 'pnb' ? 'PNB' : 'PER'}</h2>
+      <p class="muted">${ex.preguntas} preguntas, ${ex.duracion_min} minutos. Apto con al menos ${ex.aciertos_min} aciertos (máximo ${p.maxFallosOficial} fallos) y sin superar el máximo de fallos de ${esc(limitados.join(', '))}.</p>
       <table><tr><th>Bloque</th><th class="num">Preg.</th><th class="num">Máx. fallos</th></tr>${rows}</table>
       <p class="muted small">Fuente: ${esc(ex.fuente)}.</p>
     </div>
     ${p.completo ? '' : `<div class="card"><h2>Adaptado a tus temas</h2>
-      <p>Sin ${p.faltan.map(t => `el tema ${t}`).join(', ')}: <strong>${p.total} preguntas, ${p.minutos} minutos</strong>, apto con un máximo de <strong>${p.maxFallos} fallos</strong> (proporcional a los 13 oficiales) y los mismos límites por bloque.</p></div>`}
+      <p>Sin ${p.faltan.map(t => `el tema ${t}`).join(', ')}: <strong>${p.total} preguntas, ${p.minutos} minutos</strong>, apto con un máximo de <strong>${p.maxFallos} fallos</strong> (proporcional a los ${p.maxFallosOficial} oficiales) y los mismos límites por bloque.</p></div>`}
     <label class="toggle"><input type="checkbox" id="instant"> Corregir cada pregunta al momento</label>
     <p class="muted small">Si no lo marcas, verás la corrección y las justificaciones al terminar, como en el examen real. Las preguntas no respondidas cuentan como fallo.</p>`;
   bottomButton('Empezar simulacro', () => {
     const ids = [];
     for (const b of p.bloques) ids.push(...pick([b.tema], b.n));
     confirmReplace(() => startSession('simulacro', ids, {
-      title: 'Simulacro de examen', limit: p.minutos * 60,
+      title: kind === 'pnb' ? 'Simulacro PNB' : 'Simulacro de examen PER', limit: p.minutos * 60,
       instant: document.getElementById('instant').checked,
       temas: p.bloques.map(b => b.tema),
+      exam: kind,
     }));
   });
-};
+}
+
+VIEWS.setupExam = () => setupExam('per');
+VIEWS.setupExamPNB = () => setupExam('pnb');
 
 /* ---------------- Vista: pregunta ---------------- */
 
@@ -516,7 +529,7 @@ function finish() {
     }
   });
   if (sess.mode === 'simulacro') {
-    const p = examPlan();
+    const p = examPlan(sess.exam || 'per');
     const fallos = res.ko + res.blank;
     const bloquesKO = p.bloques.filter(b => b.max_fallos != null && res.porTema[b.tema] &&
       (res.porTema[b.tema].n - res.porTema[b.tema].ok) > b.max_fallos).map(b => b.tema);

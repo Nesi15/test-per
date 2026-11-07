@@ -74,6 +74,9 @@ El progreso se guarda **por `id` de pregunta**. Mientras no cambies los `id` exi
 Son 45 preguntas tipo test con 4 opciones y una sola válida, y 90 minutos. Es apto quien acierta 32 o más, sin superar 5 fallos en RIPA, 2 en Balizamiento y 2 en Carta de navegación. Reparto por unidad: 4-2-4-2-5-10-2-3-4-5-4 (unidades 1 a 11).
 Fuente: RD 875/2014, Anexo II, y el modelo de examen PER de la Junta de Andalucía (22/03/2025). Las bases concretas pueden variar ligeramente según la comunidad autónoma.
 
+**Simulacro PNB** (`examen_pnb` en `preguntas.json`): son 27 preguntas de los temas 1 a 6 y 45 minutos. Es apto quien acierta 17 o más, sin superar 2 fallos en Balizamiento ni 5 en RIPA. Reparto por tema: 4-2-4-2-5-10.
+Fuente: RD 875/2014, Anexo II, y las convocatorias PNB de Melilla (BOME-P-2025-2740 y BOME-P-2026-1183).
+
 ## Publicar en GitHub Pages, paso a paso
 
 **Sube solo el contenido de esta carpeta `web/`**, nunca los PDF del temario.

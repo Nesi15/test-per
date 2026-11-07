@@ -1,7 +1,7 @@
 /* Service worker: la web funciona sin conexión.
    - Archivos de la app: primero caché (sube CACHE si cambias index/app/styles).
    - preguntas.json: primero red, para recibir los temas nuevos en cuanto haya conexión. */
-const CACHE = 'test-per-v2';
+const CACHE = 'test-per-v3';
 const ASSETS = [
   './',
   'index.html',
