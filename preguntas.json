@@ -11654,6 +11654,421 @@
    "origen": [
     "PER Murcia Junio 2022 ok 1.pdf nº 41"
    ]
+  },
+  {
+   "id": "t11-001",
+   "tema": 11,
+   "enunciado": "A HRB (Hora reloj bitácora) 10:00 estamos en la posición A, cuyas coordenadas son: Latitud: 35°45’N / Longitud: 006°15’W. Desde esta posición damos rumbo para dirigirnos a la posición B, de coordenadas: Latitud: 36°00’N / Longitud: 006°00’W. Con una variación local de 2°NW y un desvío de aguja de (-6°). Calcular el rumbo de aguja.",
+   "opciones": [
+    "034°",
+    "043°",
+    "048°",
+    "053°"
+   ],
+   "correcta": 2,
+   "justificacion": "Rv de A a B ≈ 039º (Δlat 15' N, apartamiento 12,2' E). Ct = −2 + (−6) = −8º, así que Ra = Rv − Ct = 039 + 8 ≈ 048º.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-002",
+   "tema": 11,
+   "enunciado": "A HRB 08:30 navegamos al Ra=096°. En ese momento tenemos por la proa al faro de Punta Gracia y por nuestro través de babor, al faro de Trafalgar. ¿En qué posición nos encontramos si la corrección total es 6°NW?.",
+   "opciones": [
+    "36°05.4’N - 006°02.0’W",
+    "36°07.5’N - 006°04.1’W",
+    "36°08.5’N - 006°06.8’W",
+    "36°00.0’N - 006°00.0’W"
+   ],
+   "correcta": 0,
+   "justificacion": "Rv = Ra + Ct = 096 − 6 = 090º. Punta Gracia queda a Dv 090º y Trafalgar a Dv 000º: el corte de las dos demoras da la situación. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-003",
+   "tema": 11,
+   "enunciado": "Estamos en el punto de Latitud: 36°00.0’N y Longitud: 005°50.0’W, y queremos dirigirnos al punto de Latitud: 35°50.0’N y Longitud: 006°10.0’W. ¿Qué Rumbo verdadero tendremos que poner para llegar a la segunda posición?.",
+   "opciones": [
+    "238°",
+    "232°",
+    "247°",
+    "228°"
+   ],
+   "correcta": 0,
+   "justificacion": "Δlat = 10' S y Δlong = 20' W (apartamiento ≈ 16,2'). El rumbo es S58W, es decir, Rv = 180 + 58 ≈ 238º.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-004",
+   "tema": 11,
+   "enunciado": "Tomamos simultáneamente distancia al faro de Punta Alcázar = 5 millas y distancia al faro de Punta Cires = 7 millas. Una vez situados, damos Ra = 078°. ¿A qué distancia tendremos el faro de Punta Almina, cuando lo veamos por nuestro Sur verdadero, si la corrección total es 6°NW?.",
+   "opciones": [
+    "3.2 millas",
+    "4.6 millas",
+    "6.2 millas",
+    "8.5 millas"
+   ],
+   "correcta": 2,
+   "justificacion": "Situación por el corte de las dos distancias. Rv = 078 − 6 = 072º. Se navega hasta que Almina demora 180º y se mide la distancia. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-005",
+   "tema": 11,
+   "enunciado": "Una embarcación quiere navegar desde un punto A situado en Latitud: 35°53.4’N y Longitud: 006°10.0’W, hasta otro punto B, situado a 10 millas al Norte verdadero del faro de Punta Malabata. La variación local (dm) es 2° NW y el desvío de aguja es 12° NW. ¿Qué rumbo de aguja deberá poner?",
+   "opciones": [
+    "Ra = 264°",
+    "Ra = 089°",
+    "Ra = 065°",
+    "Ra = 245°"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = −2 + (−12) = −14º. Rv de A al punto B en la carta ≈ 075º, así que Ra = Rv − Ct = 075 + 14 = 089º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-006",
+   "tema": 11,
+   "enunciado": "Encontrándonos al Este del faro de Punta Europa, tomamos Demora de Aguja (Da) al faro de Punta Almina = 187°. Siendo la variación local de 2° NW y el desvío de aguja de (-5°). ¿Cuál es nuestra posición en ese instante?.",
+   "opciones": [
+    "36°08.8’N / 005°18.2’W",
+    "36°06.6’N / 005°16.8’W",
+    "36°04.2’N / 005°14.3’W",
+    "36°02.3’N / 005°12.4’W"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = −2 + (−5) = −7º, así que Dv = Da + Ct = 187 − 7 = 180º. La situación está al norte verdadero de Almina, al este de Punta Europa. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-007",
+   "tema": 11,
+   "enunciado": "Situados sobre la línea de la enfilación de los faros de la isla de Tarifa y de Punta Paloma, tenemos en ese instante al faro de Punta Alcázar por nuestro Sur verdadero. ¿A qué distancia tendremos al faro de Punta Carnero en ese momento?.",
+   "opciones": [
+    "7 millas",
+    "9 millas",
+    "11 millas",
+    "13 millas"
+   ],
+   "correcta": 1,
+   "justificacion": "Se traza la enfilación Tarifa-Punta Paloma y la demora 000º desde Punta Alcázar. En el corte se mide la distancia a Punta Carnero. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-008",
+   "tema": 11,
+   "enunciado": "Zarpamos del puerto de Barbate (desde la luz roja de la bocana) con rumbo de aguja: 150° y velocidad de 7 nudos. Con variación local: 2° NW y desvío de aguja: +2°. ¿A qué distancia estaremos del faro de Punta Gracia una hora más tarde?.",
+   "opciones": [
+    "0.5 millas",
+    "1.6 millas",
+    "2.3 millas",
+    "3.7 millas"
+   ],
+   "correcta": 2,
+   "justificacion": "Ct = −2 + 2 = 0º, así que Rv = Ra = 150º. Se navegan 7 millas (1 h a 7 nudos) y se mide la distancia a Punta Gracia. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-009",
+   "tema": 11,
+   "enunciado": "Obtengo rumbo en la carta 218°, declinación magnética corregida al año actual 10°E y desvío (-6°). Indique el rumbo de aguja.",
+   "opciones": [
+    "Ra = 227°",
+    "Ra = 214°",
+    "Ra = 143°",
+    "Ra = 323°"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = dm + Δ = +10 + (−6) = +4º. Ra = Rv − Ct = 218 − 4 = 214º.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-010",
+   "tema": 11,
+   "enunciado": "Situados sobre la línea de la enfilación de los faros de Punta Paloma y la isla de Tarifa, tomamos distancia a Punta Cires: 5 millas. Desde esa posición damos rumbo verdadero 260° y velocidad 15 nudos. ¿Cuál será nuestra posición después de una hora y media de navegación?",
+   "opciones": [
+    "35°58.2’N / 006°04.6’W",
+    "35°56.8’N / 006°02.8’W",
+    "35°54.2’N / 006°00.2’W",
+    "35°52.1’N / 005°58.1’W"
+   ],
+   "correcta": 2,
+   "justificacion": "Situación por enfilación y distancia a Punta Cires. Distancia = 15 nudos × 1,5 h = 22,5 millas al Rv 260º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-011",
+   "tema": 11,
+   "enunciado": "Al ser las 05:00 Hrb, el GPS de a bordo nos indica nuestra posición verdadera (35°50´N / 006°10´W). Navegamos a rumbo de aguja 085°, con velocidad de la embarcación de 10 nudos y corrección total de 5° NW. ¿Qué distancia habrá que navegar para cortar la línea de la oposición de los faros Punta Gracia y Espartel a ese rumbo y velocidad?",
+   "opciones": [
+    "13,6 millas",
+    "15,8 millas",
+    "10,2 millas",
+    "8,3 millas"
+   ],
+   "correcta": 0,
+   "justificacion": "Rv = Ra + Ct = 085 − 5 = 080º. Desde la situación se traza ese rumbo hasta cortar la oposición Punta Gracia-Espartel y se mide la distancia. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-012",
+   "tema": 11,
+   "enunciado": "Situados a 3 millas al Sur verdadero del faro de Punta Europa, damos rumbo para pasar a 1 milla al Sur verdadero del faro de isla de Tarifa. La declinación magnética es 2°W y el desvío de aguja es (-3°) Calcule el rumbo de aguja.",
+   "opciones": [
+    "245°",
+    "250°",
+    "255°",
+    "260°"
+   ],
+   "correcta": 2,
+   "justificacion": "Ct = −2 + (−3) = −5º. El Rv entre los dos puntos medido en la carta es 250º, así que Ra = Rv − Ct = 250 + 5 = 255º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-013",
+   "tema": 11,
+   "enunciado": "Nos encontramos situados a 7 millas al este verdadero del faro de Punta Europa y damos rumbo para pasar a 3 millas del faro de Punta Carnero, Calcular el rumbo de aguja con una corrección total de 5º NE:",
+   "opciones": [
+    "239º",
+    "244º",
+    "249º",
+    "254º"
+   ],
+   "correcta": 0,
+   "justificacion": "Ct = +5º (NE). El Rv medido en la carta es 244º, así que Ra = Rv − Ct = 244 − 5 = 239º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-014",
+   "tema": 11,
+   "enunciado": "Situados en la línea de la oposición de los faros Trafalgar y Espartel y distancia a Trafalgar 10 millas, ¿cuál será el rumbo verdadero al Puerto de Barbate? (luz extremo espigón):",
+   "opciones": [
+    "030º",
+    "010º",
+    "024º",
+    "018º"
+   ],
+   "correcta": 3,
+   "justificacion": "Situación por la oposición Trafalgar-Espartel y la distancia a Trafalgar. Se mide en la carta el Rv a Barbate: 018º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-015",
+   "tema": 11,
+   "enunciado": "Navegando proa a la enfilación de los faros Tarifa y Punta Paloma ¿Qué rumbo verdadero llevamos?:",
+   "opciones": [
+    "310º",
+    "305º",
+    "300º",
+    "295º"
+   ],
+   "correcta": 1,
+   "justificacion": "Las enfilaciones se trazan en la carta y dan demora verdadera directamente. Navegando proa a ella, el Rv es su demora: 305º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-016",
+   "tema": 11,
+   "enunciado": "Situados a 5 millas al norte verdadero del faro de Espartel, damos rumbo a otro punto situado a 4 millas al norte verdadero del faro de Punta Alcázar (variación local= 2º NW y desvío de aguja= -4º) calcular el rumbo de aguja:",
+   "opciones": [
+    "082º",
+    "088º",
+    "076º",
+    "070º"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = −2 + (−4) = −6º. El Rv entre los dos puntos medido en la carta es 082º, así que Ra = 082 + 6 = 088º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 45",
+    "PER Murcia Junio 2022 ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-017",
+   "tema": 11,
+   "enunciado": "Situados a 10 millas del faro de Trafalgar y a 8 millas del faro de Punta de Gracia, cuál será el rumbo de aguja al Puerto de Barbate (luz roja espigón) con corrección total= 5º NE:",
+   "opciones": [
+    "013º",
+    "009º",
+    "004º",
+    "000º"
+   ],
+   "correcta": 2,
+   "justificacion": "Situación por el corte de las dos distancias. El Rv a Barbate medido en la carta es 009º; con Ct +5º, Ra = 009 − 5 = 004º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-018",
+   "tema": 11,
+   "enunciado": "Vemos el faro de Espartel a 4´por nuestro Sur verdadero y damos rumbo hacia un punto – P – situado a 4´al Norte verdadero del faro Punta Alcázar con velocidad de 7 nudos, ¿Qué tiempo tardaremos en llegar a - P-?",
+   "opciones": [
+    "2h y 35m.",
+    "2h y 25m.",
+    "2h y 40m.",
+    "2h y 50m."
+   ],
+   "correcta": 0,
+   "justificacion": "Se mide en la carta la distancia entre los dos puntos, unas 18 millas. T = D / V = 18 / 7 ≈ 2 h 35 min. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-019",
+   "tema": 11,
+   "enunciado": "Situados al Sur verdadero del faro de Punta Paloma y a 5´del faro de Malabata, se da rumbo a un punto situado a 3´al Norte del faro de Punta Cires (corrección total -3º), calcular el rumbo de aguja:",
+   "opciones": [
+    "070º",
+    "076º",
+    "081º",
+    "065º"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = −3º. El Rv medido en la carta es 073º, así que Ra = Rv − Ct = 073 + 3 = 076º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-020",
+   "tema": 11,
+   "enunciado": "Queremos saber el rumbo verdadero y la distancia que hay entre el extremo del espigón del puerto de Cabo Roche y el faro de Espartel:",
+   "opciones": [
+    "Rv= 156º, dist= 35,0 millas.",
+    "Rv= 161º, dist= 31,9 millas.",
+    "Rv= 168º, dist= 33,6 millas.",
+    "Rv= 173º, dist= 29,2 millas."
+   ],
+   "correcta": 1,
+   "justificacion": "Se unen los dos puntos en la carta: el transportador da Rv 161º y la escala de latitudes, 31,9 millas. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-021",
+   "tema": 11,
+   "enunciado": "Zarpamos del Puerto de Ceuta (luz roja espigón de levante) con velocidad de corredera= 9 nudos. Calcular el tiempo que se tardará en llegar al Puerto de Algeciras (luz extremo espigón):",
+   "opciones": [
+    "1h 48m",
+    "1h 56m",
+    "1h 40m",
+    "1h 32m"
+   ],
+   "correcta": 0,
+   "justificacion": "Se mide en la carta la distancia Ceuta-Algeciras, unas 16,2 millas. T = D / V = 16,2 / 9 = 1,8 h = 1 h 48 min. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-022",
+   "tema": 11,
+   "enunciado": "Calcular la velocidad a poner para hacer el recorrido desde el Puerto de Barbate (luz extremo espigón) hacia el Puerto de Tánger (luz extremo del espigón) en 2h30m:",
+   "opciones": [
+    "8,3 nudos",
+    "9,7 nudos",
+    "11,3 nudos",
+    "14,2 nudos"
+   ],
+   "correcta": 1,
+   "justificacion": "Se mide en la carta la distancia Barbate-Tánger, unas 24,3 millas. V = D / T = 24,3 / 2,5 ≈ 9,7 nudos. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-023",
+   "tema": 11,
+   "enunciado": "Si zarpamos del Puerto de Barbate (luz extremo espigón) al rumbo de aguja 244º (corrección total 4ºW), ¿Qué distancia habremos recorrido cuando tengamos el Faro de Cabo Roche por nuestro Norte verdadero?:",
+   "opciones": [
+    "12,3 millas",
+    "10,1 millas",
+    "14,6 millas",
+    "16,8 millas"
+   ],
+   "correcta": 0,
+   "justificacion": "Rv = Ra + Ct = 244 − 4 = 240º. Se navega a ese rumbo hasta que Cabo Roche demora 000º y se mide la distancia recorrida. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 45"
+   ]
   }
  ]
 }
