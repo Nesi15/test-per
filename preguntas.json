@@ -8036,6 +8036,3624 @@
    "origen": [
     "10. Examen Teoría Navegación.pdf nº 50"
    ]
+  },
+  {
+   "id": "t01-056",
+   "tema": 1,
+   "enunciado": "El asiento puede ser…",
+   "opciones": [
+    "Negativo cuando el calado a popa es mayor que el calado a proa.",
+    "Positivo cuando el calado a proa es mayor que el calado a popa.",
+    "Positivo cuando el calado a proa es igual al calado a popa.",
+    "Negativo cuando el calado a proa es mayor que el calado a popa."
+   ],
+   "correcta": 3,
+   "justificacion": "Asiento = calado de popa − calado de proa. Si la proa cala más que la popa, el asiento es negativo.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 1"
+   ]
+  },
+  {
+   "id": "t01-057",
+   "tema": 1,
+   "enunciado": "A las aberturas, por lo general en forma circular, que se practican en los costados y cuya finalidad es la de ventilar y dar luz a los diversos compartimentos de una embarcación, se les denominan:",
+   "opciones": [
+    "Tragaluces.",
+    "Portillos.",
+    "Manguerotes de ventilación.",
+    "Lumbreras."
+   ],
+   "correcta": 1,
+   "justificacion": "Los portillos son aberturas, normalmente circulares, en los costados para dar luz y ventilación. Las lumbreras van en cubierta.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-058",
+   "tema": 1,
+   "enunciado": "La propiedad que tiene una embarcación de recuperar su posición vertical y quedarse sin escora se denomina…",
+   "opciones": [
+    "Adrizar.",
+    "Escorar.",
+    "Levar.",
+    "Largar."
+   ],
+   "correcta": 0,
+   "justificacion": "Adrizar es recuperar la posición vertical, sin escora. Escorar es lo contrario.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t01-059",
+   "tema": 1,
+   "enunciado": "A la hélice que gira en marcha avante, vista a popa de la hélice, en el sentido de las aguas del reloj se la denomina…",
+   "opciones": [
+    "Hélice levógira.",
+    "Hélice de pala abatible.",
+    "Hélice dextrógira.",
+    "Hélice de pala no abatible."
+   ],
+   "correcta": 2,
+   "justificacion": "Vista desde popa, la hélice dextrógira gira avante en el sentido de las agujas del reloj (a la derecha).",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 4"
+   ]
+  },
+  {
+   "id": "t01-060",
+   "tema": 1,
+   "enunciado": "A los refuerzos transversales que van de babor a estribor y que sirven para aguantar la cubierta se les denomina:",
+   "opciones": [
+    "Cuadernas.",
+    "Quilla.",
+    "Baos.",
+    "Mamparos."
+   ],
+   "correcta": 2,
+   "justificacion": "Los baos son refuerzos transversales, de babor a estribor, que unen las cuadernas por arriba y sostienen la cubierta.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-061",
+   "tema": 1,
+   "enunciado": "A la semisuma de los calados de proa y de popa (calado en proa más calado en popa, dividido entre dos) se le denomina:",
+   "opciones": [
+    "Francobordo.",
+    "Asiento.",
+    "Desplazamiento máximo.",
+    "Calado medio."
+   ],
+   "correcta": 3,
+   "justificacion": "El calado medio es la semisuma de los calados de proa y popa: (Cpr + Cpp) / 2.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t01-062",
+   "tema": 1,
+   "enunciado": "A la acción que consiste en poner la embarcación en posición vertical se le denomina:",
+   "opciones": [
+    "Zarpar.",
+    "Adrizar.",
+    "Escorar.",
+    "Virar."
+   ],
+   "correcta": 1,
+   "justificacion": "Adrizar es poner la embarcación en posición vertical, sin escora.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 4"
+   ]
+  },
+  {
+   "id": "t01-063",
+   "tema": 1,
+   "enunciado": "¿Cómo se denomina la línea que separa la obra viva de la obra muerta?",
+   "opciones": [
+    "Crujía.",
+    "Través.",
+    "Flotación.",
+    "Carena."
+   ],
+   "correcta": 2,
+   "justificacion": "La línea de flotación separa la obra viva (sumergida) de la obra muerta (fuera del agua).",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-064",
+   "tema": 1,
+   "enunciado": "La distancia vertical, medida desde el canto bajo de la quilla hasta la línea de flotación, se llama:",
+   "opciones": [
+    "Puntal.",
+    "Calado.",
+    "Reserva de flotabilidad.",
+    "Obra muerta."
+   ],
+   "correcta": 1,
+   "justificacion": "El calado es la distancia vertical desde el canto bajo de la quilla hasta la línea de flotación.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t01-065",
+   "tema": 1,
+   "enunciado": "La máquina que se utiliza para levar el ancla se denomina:",
+   "opciones": [
+    "Molinete.",
+    "Grifo de fondo.",
+    "Regala.",
+    "Bao."
+   ],
+   "correcta": 0,
+   "justificacion": "El molinete es la máquina que vira la cadena para levar el ancla.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 4"
+   ]
+  },
+  {
+   "id": "t01-066",
+   "tema": 1,
+   "enunciado": "Los orificios que permiten la evacuación de agua desde cubierta, se denomina:",
+   "opciones": [
+    "Manguerotes.",
+    "Barbotenes.",
+    "Imbornales.",
+    "Lumbreras."
+   ],
+   "correcta": 2,
+   "justificacion": "Los imbornales son orificios en la cubierta o la bañera para evacuar el agua al mar.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 1"
+   ]
+  },
+  {
+   "id": "t01-067",
+   "tema": 1,
+   "enunciado": "Las cuadernas de un barco están dispuestas en sentido:",
+   "opciones": [
+    "Horizontal.",
+    "Transversal oblicuo.",
+    "Transversal longitudinal.",
+    "Transversal vertical."
+   ],
+   "correcta": 3,
+   "justificacion": "Las cuadernas son las costillas del casco: van en sentido transversal y vertical, desde la quilla hacia arriba.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-068",
+   "tema": 1,
+   "enunciado": "Cuando el ancla despega del fondo se dice que:",
+   "opciones": [
+    "Está libre.",
+    "Ha zarpado.",
+    "Está a pique.",
+    "Está a la pendura."
+   ],
+   "correcta": 1,
+   "justificacion": "Se dice que el ancla ha zarpado cuando despega del fondo. A pique es cuando la cadena está vertical, justo antes de zarpar.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t01-069",
+   "tema": 1,
+   "enunciado": "Los refuerzos transversales que van de babor a estribor, se llaman:",
+   "opciones": [
+    "Bordas.",
+    "Mamparas.",
+    "Baos.",
+    "Trancaniles."
+   ],
+   "correcta": 2,
+   "justificacion": "Los baos son los refuerzos transversales que van de babor a estribor y sostienen la cubierta.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 1"
+   ]
+  },
+  {
+   "id": "t01-070",
+   "tema": 1,
+   "enunciado": "La hélice gira alrededor de un eje que sale por un orificio llamado:",
+   "opciones": [
+    "Bocina.",
+    "Limera.",
+    "Pala.",
+    "Capacete."
+   ],
+   "correcta": 0,
+   "justificacion": "La bocina es el orificio de popa por donde sale el eje de la hélice. Por la limera pasa la mecha del timón.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-071",
+   "tema": 1,
+   "enunciado": "En una embarcación llamamos manga máxima a:",
+   "opciones": [
+    "La altura entre la quilla y el plano de flotación.",
+    "La altura entre la quilla y la cubierta.",
+    "La anchura del casco.",
+    "La medida entre los extremos de proa y popa."
+   ],
+   "correcta": 2,
+   "justificacion": "La manga es la anchura del casco; la manga máxima, su anchura mayor.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t01-072",
+   "tema": 1,
+   "enunciado": "El asiento es:",
+   "opciones": [
+    "La diferencia entre los calados de proa y popa.",
+    "La suma de la manga y el puntal.",
+    "Un tipo de eslora.",
+    "Es el calado medido en medio del casco."
+   ],
+   "correcta": 0,
+   "justificacion": "El asiento es la diferencia entre los calados de popa y de proa.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 4"
+   ]
+  },
+  {
+   "id": "t01-073",
+   "tema": 1,
+   "enunciado": "La parte sumergida del buque, es decir, la comprendida desde la quilla hasta la línea de flotación, se llama:",
+   "opciones": [
+    "Obra muerta.",
+    "Obra viva.",
+    "Obra sumergida.",
+    "Obra mojada."
+   ],
+   "correcta": 1,
+   "justificacion": "La obra viva o carena es la parte sumergida del casco, desde la quilla hasta la línea de flotación.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 1"
+   ]
+  },
+  {
+   "id": "t01-074",
+   "tema": 1,
+   "enunciado": "La mecha que sale por la limera es parte de:",
+   "opciones": [
+    "La quilla.",
+    "La hélice.",
+    "El timón.",
+    "El ancla."
+   ],
+   "correcta": 2,
+   "justificacion": "La mecha es el eje del timón y atraviesa el casco por la limera.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-075",
+   "tema": 1,
+   "enunciado": "Cuadernas, roda y codaste son elementos relacionados con:",
+   "opciones": [
+    "La eslora.",
+    "La quilla.",
+    "La borda.",
+    "La regala."
+   ],
+   "correcta": 1,
+   "justificacion": "Roda, codaste y cuadernas forman con la quilla el esqueleto del casco: la roda y el codaste la prolongan y las cuadernas arrancan de ella.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t01-076",
+   "tema": 1,
+   "enunciado": "Barbotén, embrague y freno son elementos de la maniobra de:",
+   "opciones": [
+    "Una hélice.",
+    "Un timón.",
+    "Una bomba de achique.",
+    "Un molinete."
+   ],
+   "correcta": 3,
+   "justificacion": "El barbotén, el embrague y el freno son partes del molinete, que se usa para levar y filar la cadena del ancla.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 4"
+   ]
+  },
+  {
+   "id": "t02-025",
+   "tema": 2,
+   "enunciado": "Se define noray como…",
+   "opciones": [
+    "Pieza fijada al muelle de forma cilíndrica y simétrica cuya función es la de hacer firme los cabos con que se amarran los buques.",
+    "Elemento de hierro, hormigón o cualquier material sólido y pesado que se deposita en el fondo del mar y se une a la superficie utilizando un cabo, cable o cadena a una boya, y cuya función es la de poder amarrar a ellos las embarcaciones.",
+    "Elemento que se coloca en los costados de las embarcaciones y muelles para amortiguar los roces o pequeños golpes que se puedan producir con las diferentes maniobras.",
+    "Pieza en forma de T, fijada a la embarcación, y cuya función es hacer firme en ella las diferentes amarras."
+   ],
+   "correcta": 0,
+   "justificacion": "El noray es una pieza del muelle, cilíndrica y simétrica, para hacer firmes las amarras. La pieza en T del barco es la cornamusa.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 5"
+   ]
+  },
+  {
+   "id": "t02-026",
+   "tema": 2,
+   "enunciado": "De las siguientes afirmaciones, indique la que es correcta:",
+   "opciones": [
+    "A la hora de fondear debemos elegir un lugar que esté abrigado de los vientos y corrientes predominantes.",
+    "Los fondos de piedra son los mejores para fondear.",
+    "El borneo de una embarcación se produce cuando el ancla no se agarra en el fondo.",
+    "Decimos que hemos cobrado el ancla cuando la dejamos caer al fondo para fondear."
+   ],
+   "correcta": 0,
+   "justificacion": "Para fondear se elige un lugar abrigado del viento y la corriente predominantes. El mejor fondo es la arena, no la piedra.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 6"
+   ]
+  },
+  {
+   "id": "t02-027",
+   "tema": 2,
+   "enunciado": "¿Cómo se denomina a la acción que se produce cuando, por ejemplo por efecto del viento o de la corriente, el ancla no se agarra al fondo y se arrastra sobre él?",
+   "opciones": [
+    "Garreo.",
+    "Borneo.",
+    "Levar el ancla.",
+    "Orinque."
+   ],
+   "correcta": 0,
+   "justificacion": "Garrear es cuando el ancla no agarra y se arrastra por el fondo. Bornear es girar alrededor del ancla.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 5"
+   ]
+  },
+  {
+   "id": "t02-028",
+   "tema": 2,
+   "enunciado": "Al ir a fondear lo haremos…",
+   "opciones": [
+    "A toda máquina, fondeando el ancla y dando toda la máquina atrás para parar la embarcación.",
+    "Popa al viento y a muy poca máquina.",
+    "Proa al viento y siempre a la máxima velocidad de la embarcación.",
+    "Proa al viento, con poca velocidad, fondeamos el ancla y damos unas paladas atrás suavemente para que agarre el ancla."
+   ],
+   "correcta": 3,
+   "justificacion": "Se fondea proa al viento y con poca velocidad. Después se dan unas paladas atrás suaves para que el ancla agarre.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 6"
+   ]
+  },
+  {
+   "id": "t02-029",
+   "tema": 2,
+   "enunciado": "Decimos que el ancla zarpa cuando...",
+   "opciones": [
+    "Comienza a garrear.",
+    "Comienza a bornear.",
+    "Está con un orinque.",
+    "Despega del fondo."
+   ],
+   "correcta": 3,
+   "justificacion": "El ancla zarpa cuando despega del fondo al levarla.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 5"
+   ]
+  },
+  {
+   "id": "t02-030",
+   "tema": 2,
+   "enunciado": "Mientras estamos fondeados…",
+   "opciones": [
+    "Mantendremos los motores en marcha.",
+    "Se izará la bandera de buzo sumergido.",
+    "Si el tenedero es bueno, podremos dejar el barco solo.",
+    "Se revisará la situación con la periodicidad que requieran las circunstancias atmosféricas."
+   ],
+   "correcta": 3,
+   "justificacion": "Fondeados hay que vigilar la posición con la frecuencia que pidan el tiempo y la mar, para detectar un garreo.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 6"
+   ]
+  },
+  {
+   "id": "t02-031",
+   "tema": 2,
+   "enunciado": "¿Qué nudo de los indicados es el más adecuado para dar amarras a una barra o anilla que detallamos a continuación debiera ser el elegido siempre que queramos dar amarras a una barra o anilla?",
+   "opciones": [
+    "As de guía.",
+    "Vuelta de rezón.",
+    "Llano.",
+    "Margarita."
+   ],
+   "correcta": 1,
+   "justificacion": "La vuelta de rezón es el nudo para amarrar un cabo a una argolla, anilla o arganeo.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 5"
+   ]
+  },
+  {
+   "id": "t02-032",
+   "tema": 2,
+   "enunciado": "Las defensas se utilizan para amortiguar los roces o pequeños golpes en el casco de la embarcación durante las maniobras.",
+   "opciones": [
+    "Verdadero.",
+    "Falso.",
+    "Ninguna de las respuestas es correcta.",
+    "Falso, se utilizan solo en caso de emergencia."
+   ],
+   "correcta": 0,
+   "justificacion": "Las defensas se colocan en los costados para amortiguar roces y golpes durante las maniobras y el atraque.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 6"
+   ]
+  },
+  {
+   "id": "t02-033",
+   "tema": 2,
+   "enunciado": "¿Cómo se denomina la acción de girar alrededor del ancla por la acción del viento o la corriente?",
+   "opciones": [
+    "Bornear.",
+    "Rolar.",
+    "Garrear.",
+    "Orincar."
+   ],
+   "correcta": 0,
+   "justificacion": "Bornear es girar alrededor del ancla por efecto del viento o la corriente. Rolar es el cambio de dirección del viento.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 5"
+   ]
+  },
+  {
+   "id": "t02-034",
+   "tema": 2,
+   "enunciado": "Las piezas metálicas en forma de doble T, colocadas en cubierta, y que sirven para afirmar los cabos de amarre se denominan:",
+   "opciones": [
+    "Cornamusas.",
+    "Guardamancebos.",
+    "Guardacabos.",
+    "Candeleros."
+   ],
+   "correcta": 0,
+   "justificacion": "Las cornamusas son piezas en forma de doble T fijadas a la cubierta para hacer firmes los cabos.",
+   "fuente": "Unidad 2. Elementos de Amarre y Fondeo 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 6"
+   ]
+  },
+  {
+   "id": "t03-048",
+   "tema": 3,
+   "enunciado": "¿Qué debemos hacer si se nos aproxima un fuerte chubasco con viento?.",
+   "opciones": [
+    "Comprobar los equipos de radiocomunicaciones.",
+    "Navegar con el ancla a la pendura.",
+    "Atravesarnos a la mar.",
+    "Estibar todos los elementos de a bordo y trincar todo aquello susceptible de moverse por efecto de la mar."
+   ],
+   "correcta": 3,
+   "justificacion": "Ante un chubasco hay que estibar y trincar todo lo que pueda moverse, además de asegurar la estanqueidad.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 7"
+   ]
+  },
+  {
+   "id": "t03-049",
+   "tema": 3,
+   "enunciado": "En caso de hombre al agua en una embarcación a motor, ¿qué debemos hacer primero?.",
+   "opciones": [
+    "Dar máquina avante, a todo lo que dé el motor.",
+    "Anotar en la carta la posición en la que estamos.",
+    "Meter timón a la banda donde cayó la persona y lanzar un aro salvavidas.",
+    "Parar máquinas inmediatamente."
+   ],
+   "correcta": 2,
+   "justificacion": "Con hombre al agua, primero se mete el timón a la banda de caída, para alejar la hélice, y se le lanza un aro salvavidas.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 8"
+   ]
+  },
+  {
+   "id": "t03-050",
+   "tema": 3,
+   "enunciado": "Los extintores portátiles en las embarcaciones de recreo…",
+   "opciones": [
+    "Son opcionales, aunque es muy recomendable llevar alguno a bordo.",
+    "No tienen que pasar ningún tipo de revisión.",
+    "Deben colocarse en puntos de fácil acceso y cercanos a aquellos puntos más propensos en los que se puedan producir incendios.",
+    "Se pueden sustituir por baldes."
+   ],
+   "correcta": 2,
+   "justificacion": "Los extintores deben estar en lugares de fácil acceso y cerca de los puntos con más riesgo de incendio. Son obligatorios y se revisan.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 9"
+   ]
+  },
+  {
+   "id": "t03-051",
+   "tema": 3,
+   "enunciado": "Navegando en aguas someras debemos…",
+   "opciones": [
+    "Ir cambiando de rumbos continuamente.",
+    "Aumentar la velocidad a la máxima que dé el motor.",
+    "Trasladar todos los pesos a proa.",
+    "Reducir la velocidad y vigilar la sonda."
+   ],
+   "correcta": 3,
+   "justificacion": "En aguas someras hay que reducir la velocidad y vigilar la sonda para no varar.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-052",
+   "tema": 3,
+   "enunciado": "¿Cómo se denomina a la acción de mantener nuestra embarcación navegando, aguantando el temporal, proa a la mar o amurado a él?.",
+   "opciones": [
+    "Correr.",
+    "Adrizar.",
+    "Capear.",
+    "Barloventar."
+   ],
+   "correcta": 2,
+   "justificacion": "Capear es aguantar el temporal con la proa o la amura a la mar. Correr es recibirlo por la popa o la aleta.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 7"
+   ]
+  },
+  {
+   "id": "t03-053",
+   "tema": 3,
+   "enunciado": "Nos encontramos navegando y recibimos aviso de temporal. ¿Cómo se denomina al conjunto de acciones tendentes a preparar la embarcación para pasar el temporal?",
+   "opciones": [
+    "Capear el temporal.",
+    "Ir de arribada.",
+    "Arranchar a son de mar.",
+    "Estibar."
+   ],
+   "correcta": 2,
+   "justificacion": "Arranchar a son de mar es preparar el barco para el mal tiempo: estibar, trincar y cerrar todo.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 8"
+   ]
+  },
+  {
+   "id": "t03-054",
+   "tema": 3,
+   "enunciado": "Navegando con mala mar…",
+   "opciones": [
+    "Aumentaremos nuestra velocidad a la máxima que permita nuestra embarcación.",
+    "Nos atravesaremos a la mar.",
+    "Dejaremos todos los pesos sin trincar.",
+    "Navegaremos con máquina moderada evitando dar pantocazos."
+   ],
+   "correcta": 3,
+   "justificacion": "Con mala mar se navega a máquina moderada para evitar pantocazos (golpes del casco contra las olas).",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 9"
+   ]
+  },
+  {
+   "id": "t03-055",
+   "tema": 3,
+   "enunciado": "De las siguientes afirmaciones indique la que es verdadera.",
+   "opciones": [
+    "Al atravesarnos a la mar y producirse una escora, se disminuye la estabilidad de la embarcación.",
+    "Trasladar los pesos lo más abajo posible provoca una disminución de la estabilidad de la embarcación.",
+    "La estabilidad longitudinal es la tendencia que tiene una embarcación a tener escoras.",
+    "Las aguas someras son las más seguras por las que podemos navegar."
+   ],
+   "correcta": 0,
+   "justificacion": "Atravesarse a la mar hace escorar el barco y reduce su estabilidad. Bajar los pesos la aumenta, no la disminuye.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-056",
+   "tema": 3,
+   "enunciado": "En caso de que veamos caer a uno de los tripulantes por la borda, lo primero que haremos será.",
+   "opciones": [
+    "Meter timón a la banda contraria a la de caída del náufrago.",
+    "Meter timón a la misma banda de caída del náufrago.",
+    "Tocar la bocina insistentemente.",
+    "Llamar a Salvamento Marítimo."
+   ],
+   "correcta": 1,
+   "justificacion": "Al caer alguien por la borda, se mete el timón a la misma banda de caída para apartar la popa y la hélice del náufrago.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 7"
+   ]
+  },
+  {
+   "id": "t03-057",
+   "tema": 3,
+   "enunciado": "¿Cuáles serían las dos principales acciones a ejecutar si se navega por aguas someras?",
+   "opciones": [
+    "Reducir velocidad y controlar frecuentemente la sonda.",
+    "Aumentar velocidad y accionar el piloto automático.",
+    "Poner rumbo mar adentro y controlar la corredera.",
+    "Izar el reflector radar y moderar la velocidad."
+   ],
+   "correcta": 0,
+   "justificacion": "En aguas someras, reducir la velocidad y vigilar la sonda con frecuencia.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 8"
+   ]
+  },
+  {
+   "id": "t03-058",
+   "tema": 3,
+   "enunciado": "Los elementos colocados en los costados de una embarcación antes de atracar, para evitar rozamientos o golpes se llaman…",
+   "opciones": [
+    "Bozas.",
+    "Cornamusas.",
+    "Defensas.",
+    "Muertos."
+   ],
+   "correcta": 2,
+   "justificacion": "Las defensas se ponen en los costados antes de atracar para evitar roces y golpes.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 9"
+   ]
+  },
+  {
+   "id": "t03-059",
+   "tema": 3,
+   "enunciado": "Las válvulas fijas en el casco, en su obra viva, que permiten la entrada de agua para la refrigeración del motor reciben el nombre de...",
+   "opciones": [
+    "Válvulas de acceso.",
+    "Grifos de fondo.",
+    "Lumbreras.",
+    "Bombas de aspiración."
+   ],
+   "correcta": 1,
+   "justificacion": "Los grifos de fondo son válvulas en la obra viva por las que entra agua de mar, por ejemplo para refrigerar el motor.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-060",
+   "tema": 3,
+   "enunciado": "Decimos que estamos en «\u0001» cuando estas son…",
+   "opciones": [
+    "Mesopelagicas.",
+    "Abisales.",
+    "Someras.",
+    "Hadal."
+   ],
+   "correcta": 2,
+   "justificacion": "Las aguas someras son las de poca profundidad, con riesgo de varar.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 7"
+   ]
+  },
+  {
+   "id": "t03-061",
+   "tema": 3,
+   "enunciado": "El movimiento oscilante transversal que se produce en el barco por efecto del viento y/o las olas se denomina…",
+   "opciones": [
+    "Pantocazo.",
+    "Balance.",
+    "Cabezada.",
+    "Estabilidad transversal."
+   ],
+   "correcta": 1,
+   "justificacion": "El balance es la oscilación transversal del barco, de banda a banda. La cabezada es de proa a popa.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 8"
+   ]
+  },
+  {
+   "id": "t03-062",
+   "tema": 3,
+   "enunciado": "La señal fumígena flotante emitirá humo al menos durante qué tiempo:",
+   "opciones": [
+    "5 minutos.",
+    "2 minutos.",
+    "3 minutos.",
+    "La respuesta a) y b) son correctas."
+   ],
+   "correcta": 2,
+   "justificacion": "La señal fumígena flotante da humo naranja durante al menos 3 minutos.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-063",
+   "tema": 3,
+   "enunciado": "En caso de remolque de emergencia, en la maniobra de aproximación, el remolcado se situará respecto al buque remolcador…",
+   "opciones": [
+    "A estribor.",
+    "A babor.",
+    "A sotavento.",
+    "A barlovento."
+   ],
+   "correcta": 2,
+   "justificacion": "El remolcador se aproxima por barlovento; por tanto, el remolcado queda a sotavento de él.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 13",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 7"
+   ]
+  },
+  {
+   "id": "t03-064",
+   "tema": 3,
+   "enunciado": "Capear un temporal es:",
+   "opciones": [
+    "Poner la proa a la mar.",
+    "Poner la amura a la mar y reducir velocidad.",
+    "Poner popa a la mar.",
+    "Poner aleta a la mar y reducir la velocidad."
+   ],
+   "correcta": 1,
+   "justificacion": "Capear es poner la amura a la mar y reducir la velocidad para aguantar el temporal.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 9"
+   ]
+  },
+  {
+   "id": "t03-065",
+   "tema": 3,
+   "enunciado": "Cuando se navega con mal tiempo es aconsejable:",
+   "opciones": [
+    "Cerrar todos los grifos de fondo.",
+    "Cerrar los grifos de fondo de la banda de sotavento.",
+    "Cerrar todos los grifos de fondo menos el de refrigeración del motor.",
+    "Cerrar el grifo de fondo de la banda de barlovento."
+   ],
+   "correcta": 2,
+   "justificacion": "Con mal tiempo se cierran los grifos de fondo, salvo el de refrigeración del motor, que debe seguir funcionando.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-066",
+   "tema": 3,
+   "enunciado": "El término «\u0001» significa:",
+   "opciones": [
+    "Ponerse proa (amura) a la mar moderando la velocidad.",
+    "Ponerse popa (aleta) a la mar aumentando la velocidad.",
+    "Ponerse de través a la mar dando avante.",
+    "Ponerse popa a la mar dando atrás."
+   ],
+   "correcta": 1,
+   "justificacion": "Correr un temporal es navegar con la popa o la aleta a la mar, a la velocidad adecuada para no ser alcanzado por las olas.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 7"
+   ]
+  },
+  {
+   "id": "t03-067",
+   "tema": 3,
+   "enunciado": "En caso de hipotermia, es conveniente:",
+   "opciones": [
+    "Mantener al accidentado en lugar fresco y ventilado.",
+    "Aplicar bolas de hielo.",
+    "Dar friegas de alcohol.",
+    "Abrigar al accidentado."
+   ],
+   "correcta": 3,
+   "justificacion": "En la hipotermia hay que abrigar a la persona y protegerla del frío. Nunca aplicar hielo ni friegas de alcohol.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 12",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 8"
+   ]
+  },
+  {
+   "id": "t03-068",
+   "tema": 3,
+   "enunciado": "La propiedad que tiene un barco de recobrar la posición de equilibrio cuando la pierde por causas externas es conocida como:",
+   "opciones": [
+    "Seguridad de equilibrio.",
+    "Seguridad de adrizamiento.",
+    "Estabilidad.",
+    "Inestabilidad."
+   ],
+   "correcta": 2,
+   "justificacion": "La estabilidad es la propiedad de recuperar el equilibrio cuando se pierde por causas externas.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 9"
+   ]
+  },
+  {
+   "id": "t03-069",
+   "tema": 3,
+   "enunciado": "El lanzamiento, por parte de una embarcación, de cohetes con paracaídas que produzcan luz roja intensa, se hace para indicar:",
+   "opciones": [
+    "Naveguemos con mucha atención.",
+    "Que estamos en una zona de maniobras militares.",
+    "Que necesitamos auxilio.",
+    "Ha caído un hombre al agua."
+   ],
+   "correcta": 2,
+   "justificacion": "Los cohetes con paracaídas de luz roja son señal de socorro: indican que se necesita auxilio.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t04-030",
+   "tema": 4,
+   "enunciado": "Navegando con una embarcación a motor, queremos acceder a una playa que tiene balizada la zona de baño…",
+   "opciones": [
+    "Accederemos a la playa por cualquier sitio, incluida la zona de baño, teniendo cuidado de no dañar el balizamiento que marca zona de baño.",
+    "Procederemos por el canal balizado de acceso a la playa, sin salir del mismo.",
+    "Si procedemos por el canal balizado de acceso a la playa podremos ir a la velocidad que queramos.",
+    "Iremos a menos de 3 nudos si navegamos por la zona de baño."
+   ],
+   "correcta": 1,
+   "justificacion": "En una playa balizada se accede por el canal balizado, sin salir de él. En la zona de baño no se puede navegar.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 11"
+   ]
+  },
+  {
+   "id": "t04-031",
+   "tema": 4,
+   "enunciado": "Se prohíbe la descarga de aguas sucias por las embarcaciones de recreo en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, salvo que…",
+   "opciones": [
+    "La embarcación efectúe la descarga a una distancia superior a 3 millas náuticas de la tierra más próxima, si las aguas sucias han sido previamente desmenuzadas y desinfectadas.",
+    "La embarcación efectúe la descarga a una distancia inferior a 2 millas náuticas de la tierra más próxima si no han sido previamente desmenuzadas ni desinfectadas.",
+    "Las aguas sucias hayan estado almacenadas en los sistemas de retención y se descarguen de forma instantánea a menos de 4 nudos y en aguas del puerto.",
+    "Ninguna de las respuestas es correcta, porque las aguas sucias se pueden descargar sin ningún tipo de limitación."
+   ],
+   "correcta": 0,
+   "justificacion": "Las aguas sucias desmenuzadas y desinfectadas pueden descargarse a más de 3 millas de tierra. Sin tratar, a más de 12 millas.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 12"
+   ]
+  },
+  {
+   "id": "t04-032",
+   "tema": 4,
+   "enunciado": "Arrojar plásticos al mar…",
+   "opciones": [
+    "Está permitido si antes los trituramos y los arrojamos a más de 12 millas de la costa.",
+    "Está permitido fuera de las zonas de baño y de los canales de acceso a las playas.",
+    "Está prohibido.",
+    "Está prohibido solo en aquellas aguas que estén dentro de reservas naturales."
+   ],
+   "correcta": 2,
+   "justificacion": "Arrojar plásticos al mar está prohibido siempre (MARPOL, anexo V).",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 11"
+   ]
+  },
+  {
+   "id": "t04-033",
+   "tema": 4,
+   "enunciado": "Las embarcaciones de recreo españolas…",
+   "opciones": [
+    "Están obligadas a enarbolar la Bandera de España junto con la bandera de la Comunidad Autónoma del puerto en el que se encuentre.",
+    "Están obligadas a enarbolar la Bandera de España.",
+    "Solamente enarbolarán la Bandera de España cuando naveguen por aguas internacionales.",
+    "No pueden enarbolar, en ningún caso, las Banderas de las Comunidades Autónomas."
+   ],
+   "correcta": 1,
+   "justificacion": "Las embarcaciones de recreo españolas están obligadas a enarbolar la bandera de España.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 12"
+   ]
+  },
+  {
+   "id": "t04-034",
+   "tema": 4,
+   "enunciado": "Nos encontramos navegando y recibimos un aviso de socorro de otra embarcación, en la que hay personas en peligro. ¿Cómo debemos proceder según lo indicado en el párrafo 1, Regla 33, Capítulo V del Convenio SOLAS?",
+   "opciones": [
+    "Nos mantendremos a la escucha.",
+    "Acudiremos a toda máquina en auxilio de las personas en peligro.",
+    "Obviaremos la llamada, para estos menesteres está Salvamento Marítimo.",
+    "Volveremos lo más rápidamente posible a puerto para avisar a Salvamento Marítimo."
+   ],
+   "correcta": 1,
+   "justificacion": "Según SOLAS (cap. V, regla 33), quien recibe un aviso de socorro debe acudir a toda máquina en auxilio de las personas en peligro.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 12"
+   ]
+  },
+  {
+   "id": "t04-035",
+   "tema": 4,
+   "enunciado": "Si nos encontramos navegando por las aguas de un puerto, por ejemplo, por la dársena de Cartagena, procuraremos navegar…",
+   "opciones": [
+    "Apartándonos de cualquier buque que nos estorbe, cayendo a babor o a estribor a la velocidad que estimemos oportuna.",
+    "Como mínimo a más de tres nudos de velocidad, y, en cualquier caso, evolucionando a la máxima velocidad de gobierno.",
+    "No se puede navegar por la dársena del puerto.",
+    "Como máximo a tres nudos de velocidad, y, en cualquier caso, evolucionando a la mínima velocidad de gobierno."
+   ],
+   "correcta": 3,
+   "justificacion": "En las aguas del puerto se navega como máximo a 3 nudos y a la mínima velocidad de gobierno.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 11"
+   ]
+  },
+  {
+   "id": "t04-036",
+   "tema": 4,
+   "enunciado": "¿Se puede navegar en una zona de baño NO balizada?",
+   "opciones": [
+    "No, en las zonas de baño no se puede navegar. Son para bañarse.",
+    "Solo en caso de emergencia.",
+    "Sí, pero siempre a una velocidad inferior a los tres nudos y tomando las medidas necesarias para evitar riesgos para la seguridad de la vida humana.",
+    "Sí, pero únicamente si se va a fondear la embarcación."
+   ],
+   "correcta": 2,
+   "justificacion": "En las zonas de baño no balizadas se puede navegar, pero a menos de 3 nudos y con las precauciones necesarias.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 12"
+   ]
+  },
+  {
+   "id": "t05-046",
+   "tema": 5,
+   "enunciado": "Una marca cónica de color verde con una franja roja, indica:",
+   "opciones": [
+    "Marca lateral de estribor.",
+    "Marca lateral de babor.",
+    "Canal principal a babor.",
+    "Canal principal a estribor."
+   ],
+   "correcta": 2,
+   "justificacion": "Cónica verde con franja roja es una lateral de estribor modificada: indica que el canal principal sigue a babor.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 13"
+   ]
+  },
+  {
+   "id": "t05-047",
+   "tema": 5,
+   "enunciado": "En la región A, entrando a puerto desde la mar, las marcas laterales de color verde deben quedar por:",
+   "opciones": [
+    "Barlovento.",
+    "Sotavento.",
+    "Estribor.",
+    "Babor."
+   ],
+   "correcta": 2,
+   "justificacion": "En la Región A, entrando a puerto, las marcas verdes quedan por estribor y las rojas por babor.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 14"
+   ]
+  },
+  {
+   "id": "t05-048",
+   "tema": 5,
+   "enunciado": "Una luz centelleante blanca en grupos de 3 destellos cada 5 segundos, pertenece a:",
+   "opciones": [
+    "Una marca cardinal norte.",
+    "Una marca cardinal este.",
+    "Una marca cardinal sur.",
+    "Una marca cardinal oeste."
+   ],
+   "correcta": 1,
+   "justificacion": "Grupos de 3 centelleos blancos son de la cardinal Este (cada 10 s, o cada 5 s si son centelleos rápidos).",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 15"
+   ]
+  },
+  {
+   "id": "t05-049",
+   "tema": 5,
+   "enunciado": "Respecto a una baliza, que muestra como marca de tope DOS conos negros superpuestos con vértices hacia arriba, ¿dónde se encuentran las aguas navegables?:",
+   "opciones": [
+    "Al norte de la marca.",
+    "Al sur de la marca.",
+    "Al este de la marca.",
+    "Al oeste de la marca."
+   ],
+   "correcta": 0,
+   "justificacion": "Dos conos con los vértices hacia arriba es la cardinal Norte: las aguas navegables están al norte de la marca.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 16"
+   ]
+  },
+  {
+   "id": "t05-050",
+   "tema": 5,
+   "enunciado": "En una marca de peligro aislado el ritmo y el color de su luz es:",
+   "opciones": [
+    "Dos destellos de color rojos.",
+    "Grupo de dos destellos de color blanco.",
+    "Grupo de dos destellos de color verde.",
+    "Un destello color blanco."
+   ],
+   "correcta": 1,
+   "justificacion": "La luz del peligro aislado es blanca, en grupos de dos destellos: GpD(2).",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 17"
+   ]
+  },
+  {
+   "id": "t05-051",
+   "tema": 5,
+   "enunciado": "Cuando llegamos a un puerto desde la mar, en región A, las luces que debemos dejar por babor son…",
+   "opciones": [
+    "Verdes",
+    "Rojas",
+    "Amarillas",
+    "Blancas"
+   ],
+   "correcta": 1,
+   "justificacion": "Entrando a puerto en la Región A, las luces rojas (marcas de babor) quedan por babor.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 13"
+   ]
+  },
+  {
+   "id": "t05-052",
+   "tema": 5,
+   "enunciado": "Si nos encontramos una marca pintada con bandas horizontales amarillas y negras, y cuya marca de tope son dos conos superpuestos con los vértices hacia abajo, estamos ante…",
+   "opciones": [
+    "Una marca cardinal Norte.",
+    "Una marca cardinal Este.",
+    "Una marca cardinal Sur.",
+    "Una marca cardinal Oeste."
+   ],
+   "correcta": 2,
+   "justificacion": "Dos conos con los vértices hacia abajo es la cardinal Sur: amarilla en la parte superior y negra en la inferior.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 14"
+   ]
+  },
+  {
+   "id": "t05-053",
+   "tema": 5,
+   "enunciado": "La señal de Peligro Aislado…",
+   "opciones": [
+    "Indica que en el punto en que se encuentra colocada es donde hay mayor profundidad.",
+    "Se coloca sobre, o próxima, a un peligro rodeado por todas partes de aguas navegables.",
+    "Si tiene una franja verde nos indica que el lado por el que la navegación es segura es el de estribor.",
+    "Presenta dos conos superpuestos opuestos por sus vértices como marca de tope."
+   ],
+   "correcta": 1,
+   "justificacion": "La marca de peligro aislado se coloca sobre un peligro, o cerca de él, rodeado por todas partes de aguas navegables.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 15"
+   ]
+  },
+  {
+   "id": "t05-054",
+   "tema": 5,
+   "enunciado": "Una marca de aguas navegables tiene como tope…",
+   "opciones": [
+    "Una bola negra",
+    "Dos bolas negras",
+    "Una bola roja",
+    "Un aspa amarilla"
+   ],
+   "correcta": 2,
+   "justificacion": "El tope de la marca de aguas navegables es una esfera (bola) roja.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 16"
+   ]
+  },
+  {
+   "id": "t05-055",
+   "tema": 5,
+   "enunciado": "Si navegando nos encontramos una boya de color amarillo y con una marca de tope en forma de X, estaremos ante…",
+   "opciones": [
+    "Una marca de peligro aislado.",
+    "Una marca cardinal oeste.",
+    "Una marca lateral que indica que existe un peligro en la zona.",
+    "Una marca especial."
+   ],
+   "correcta": 3,
+   "justificacion": "Las marcas especiales son amarillas con tope en aspa amarilla (forma de X).",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 17"
+   ]
+  },
+  {
+   "id": "t05-056",
+   "tema": 5,
+   "enunciado": "Para indicar los lados de babor y estribor de la derrota que debe seguirse en un canal, se utilizan las…",
+   "opciones": [
+    "Marcas laterales",
+    "Marcas cardinales",
+    "Marcas de peligro aislado",
+    "Marcas especiales"
+   ],
+   "correcta": 0,
+   "justificacion": "Las marcas laterales indican los lados de babor y estribor de la derrota que debe seguirse en un canal.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 13"
+   ]
+  },
+  {
+   "id": "t05-057",
+   "tema": 5,
+   "enunciado": "Para indicar que las aguas más profundas de la zona en que se encuentra colocada son las del cuadrante que da nombre a la marca, se utilizan…",
+   "opciones": [
+    "Las marcas cardinales.",
+    "Las marcas laterales.",
+    "Las marcas de aguas navegables.",
+    "Las marcas de peligro aislado."
+   ],
+   "correcta": 0,
+   "justificacion": "Las cardinales indican que las aguas más profundas están en el cuadrante que da nombre a la marca.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 14"
+   ]
+  },
+  {
+   "id": "t05-058",
+   "tema": 5,
+   "enunciado": "La marca cardinal Este, tiene como marca de tope:",
+   "opciones": [
+    "Dos conos negros superpuestos, opuestos por la base.",
+    "Dos conos negros superpuestos, unidos por el vértice.",
+    "Dos conos negros superpuestos, con el vértice hacia arriba.",
+    "Dos conos negros superpuestos, con el vértice hacia abajo."
+   ],
+   "correcta": 0,
+   "justificacion": "El tope de la cardinal Este son dos conos negros opuestos por la base (forma de rombo).",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 15"
+   ]
+  },
+  {
+   "id": "t05-059",
+   "tema": 5,
+   "enunciado": "Una marca de peligro aislado…",
+   "opciones": [
+    "Es una marca colocada o fondeada sobre un peligro e indica que está prohibida la navegación a 200 metros de ella.",
+    "Es una marca colocada o fondeada sobre un peligro a cuyo alrededor las aguas no son navegables.",
+    "Es una marca colocada o fondeada sobre un peligro a cuyo alrededor las aguas son navegables.",
+    "Es una marca colocada o fondeada sobre un peligro que se encuentra al Norte de la misma."
+   ],
+   "correcta": 2,
+   "justificacion": "La marca de peligro aislado se fondea sobre un peligro a cuyo alrededor las aguas son navegables.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 16"
+   ]
+  },
+  {
+   "id": "t05-060",
+   "tema": 5,
+   "enunciado": "La marca de tope de una marca especial es:",
+   "opciones": [
+    "Una X amarilla.",
+    "Un cono rojo.",
+    "Una esfera verde.",
+    "Una esfera roja."
+   ],
+   "correcta": 0,
+   "justificacion": "El tope de la marca especial es un aspa (X) amarilla.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 17"
+   ]
+  },
+  {
+   "id": "t05-061",
+   "tema": 5,
+   "enunciado": "Las marcas laterales de babor de la región A son:",
+   "opciones": [
+    "De color amarillo.",
+    "De color blanco.",
+    "De color verde.",
+    "De color rojo."
+   ],
+   "correcta": 3,
+   "justificacion": "En la Región A, las marcas laterales de babor son rojas.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 13"
+   ]
+  },
+  {
+   "id": "t05-062",
+   "tema": 5,
+   "enunciado": "Dos conos superpuestos con los vértices hacia arriba, es la marca de tope de…",
+   "opciones": [
+    "Marca de peligro aislado.",
+    "Marca cardinal Norte.",
+    "No existe.",
+    "Ninguna respuesta de las anteriores es correcta."
+   ],
+   "correcta": 1,
+   "justificacion": "Dos conos con los vértices hacia arriba es el tope de la cardinal Norte.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 14"
+   ]
+  },
+  {
+   "id": "t05-063",
+   "tema": 5,
+   "enunciado": "Si divisamos una boya de color negro con una o varias anchas bandas horizontales rojas, significa:",
+   "opciones": [
+    "Lugar para fondear.",
+    "Prohibido fondear.",
+    "Buceador sumergido.",
+    "Peligro aislado."
+   ],
+   "correcta": 3,
+   "justificacion": "Negra con una o varias bandas anchas horizontales rojas es la marca de peligro aislado.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 16"
+   ]
+  },
+  {
+   "id": "t05-064",
+   "tema": 5,
+   "enunciado": "¿De qué color son las marcas especiales?",
+   "opciones": [
+    "Amarillo y negro.",
+    "Rojo con una franja verde.",
+    "Amarillo.",
+    "Verde con una franja roja."
+   ],
+   "correcta": 2,
+   "justificacion": "Las marcas especiales son de color amarillo.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 17"
+   ]
+  },
+  {
+   "id": "t05-065",
+   "tema": 5,
+   "enunciado": "Las marcas laterales de babor. ¿Qué forma pueden tener?",
+   "opciones": [
+    "Castillete.",
+    "Espeque.",
+    "Cilíndrica.",
+    "Todas las respuestas anteriores son correctas."
+   ],
+   "correcta": 3,
+   "justificacion": "Las marcas laterales de babor pueden ser cilíndricas, de castillete o de espeque.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 13"
+   ]
+  },
+  {
+   "id": "t05-066",
+   "tema": 5,
+   "enunciado": "En el sistema cardinal las marcas son…",
+   "opciones": [
+    "Boyas de castillete o espeques.",
+    "Boyas cilíndricas.",
+    "Boyas cónicas.",
+    "Boyas cilíndricas o espeques."
+   ],
+   "correcta": 0,
+   "justificacion": "Las marcas cardinales son de castillete o de espeque.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 14"
+   ]
+  },
+  {
+   "id": "t05-067",
+   "tema": 5,
+   "enunciado": "Las marcas de peligro aislado son negras, con una o más bandas anchas horizontales rojas. Su marca de tope está formada por:",
+   "opciones": [
+    "Una esfera negra.",
+    "Dos esferas negras superpuestas.",
+    "Un cilindro negro.",
+    "Dos cilindros negros superpuestos."
+   ],
+   "correcta": 1,
+   "justificacion": "El tope de la marca de peligro aislado son dos esferas negras superpuestas.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 15"
+   ]
+  },
+  {
+   "id": "t05-068",
+   "tema": 5,
+   "enunciado": "Una marca esférica con franjas verticales rojas y blancas es:",
+   "opciones": [
+    "Una marca lateral que indica canal principal a babor.",
+    "Una marca cardinal Norte.",
+    "Una marca de aguas navegables.",
+    "Una marca especial."
+   ],
+   "correcta": 2,
+   "justificacion": "Esférica con franjas verticales rojas y blancas es la marca de aguas navegables.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 16"
+   ]
+  },
+  {
+   "id": "t05-069",
+   "tema": 5,
+   "enunciado": "El color amarillo en las boyas significa …",
+   "opciones": [
+    "Marcas especiales.",
+    "Marcas laterales.",
+    "Aguas navegables.",
+    "Marcas de peligro aislado."
+   ],
+   "correcta": 0,
+   "justificacion": "El amarillo es el color de las marcas especiales.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 17"
+   ]
+  },
+  {
+   "id": "t05-070",
+   "tema": 5,
+   "enunciado": "Si saliendo de puerto, vemos una boya cilíndrica de color rojo, la dejaremos por:",
+   "opciones": [
+    "Babor.",
+    "Indistintamente.",
+    "Estribor entrando.",
+    "Estribor."
+   ],
+   "correcta": 3,
+   "justificacion": "La cilíndrica roja es de babor entrando a puerto. Saliendo se invierte, así que se deja por estribor.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 13"
+   ]
+  },
+  {
+   "id": "t05-071",
+   "tema": 5,
+   "enunciado": "Una marca cardinal Norte es:",
+   "opciones": [
+    "De color negro sobre amarillo y de castillete o espeque.",
+    "De color amarillo sobre negro y de castillete o espeque.",
+    "De color negro con una banda ancha horizontal amarilla y de castillete.",
+    "De color amarillo con una banda ancha horizontal negra y de castillete."
+   ],
+   "correcta": 0,
+   "justificacion": "La cardinal Norte es negra en la parte superior y amarilla en la inferior, y tiene forma de castillete o espeque.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 14"
+   ]
+  },
+  {
+   "id": "t05-072",
+   "tema": 5,
+   "enunciado": "Un espeque de color negro con una franja central roja, nos indica la existencia de:",
+   "opciones": [
+    "Aguas navegables.",
+    "Peligro especial.",
+    "Peligro aislado.",
+    "Peligro sumergido."
+   ],
+   "correcta": 2,
+   "justificacion": "Un espeque negro con franja roja horizontal es una marca de peligro aislado.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 15"
+   ]
+  },
+  {
+   "id": "t05-073",
+   "tema": 5,
+   "enunciado": "Si navegando de noche, avistamos una baliza que da grupos de dos destellos blancos, podemos suponer que se trata de:",
+   "opciones": [
+    "Una marca cardinal del Este.",
+    "Una marca de peligro aislado.",
+    "Una marca de centro de canal.",
+    "Una marca especial."
+   ],
+   "correcta": 1,
+   "justificacion": "Grupos de dos destellos blancos corresponden a la marca de peligro aislado.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 16"
+   ]
+  },
+  {
+   "id": "t05-074",
+   "tema": 5,
+   "enunciado": "Una marca de color a franjas verticales rojas y blancas, con una esfera roja como marca de tope indica:",
+   "opciones": [
+    "Aguas navegables.",
+    "Peligro aislado.",
+    "Zona de ejercicios militares.",
+    "Ninguna es cierta."
+   ],
+   "correcta": 0,
+   "justificacion": "Franjas verticales rojas y blancas con tope de esfera roja indican aguas navegables.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 17"
+   ]
+  },
+  {
+   "id": "t06-069",
+   "tema": 6,
+   "enunciado": "Según la Regla 7 del Reglamento Internacional para Prevenir los Abordajes en la Mar (RIPA), para determinar si existe riesgo de abordaje se tendrán en cuenta, entre otras, la siguiente consideración:",
+   "opciones": [
+    "La demora de un buque que se aproxima no varía en forma apreciable.",
+    "La demora de un buque que se aproxima varía en forma apreciable.",
+    "La distancia al otro buque aumenta de forma apreciable.",
+    "El rumbo del otro buque es paralelo al nuestro."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 7: hay riesgo de abordaje si la demora de un buque que se aproxima no varía de forma apreciable.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 18"
+   ]
+  },
+  {
+   "id": "t06-070",
+   "tema": 6,
+   "enunciado": "Según la Regla 6 del RIPA, para determinar la velocidad de seguridad se tendrán en cuenta, entre otras…",
+   "opciones": [
+    "La densidad del tráfico, incluidas las concentraciones de buques de pesca o de cualquier otra clase.",
+    "El estado del viento, mar y corriente y la proximidad de peligros para la navegación.",
+    "la maniobrabilidad del buque teniendo muy en cuenta la distancia de parada y la capacidad de giro en las condiciones del momento.",
+    "Todas las respuestas son correctas."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 6: la densidad del tráfico, el viento, la mar y la corriente, y la maniobrabilidad cuentan para la velocidad de seguridad. Todas son correctas.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 17",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 20"
+   ]
+  },
+  {
+   "id": "t06-071",
+   "tema": 6,
+   "enunciado": "Según la Regla 14 del RIPA, «\u0001»",
+   "opciones": [
+    "Cada uno de ellos caerá a babor de forma que pase por la banda de estribor del otro.",
+    "Cada uno de ellos caerá a estribor de forma que pase por la banda de babor del otro.",
+    "Aquel que se encuentre a barlovento caerá a estribor.",
+    "Aquel que se encuentre a barlovento caerá a babor."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 14: en vuelta encontrada, los dos buques de propulsión mecánica caen a estribor y se pasan por babor.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 14",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 21"
+   ]
+  },
+  {
+   "id": "t06-072",
+   "tema": 6,
+   "enunciado": "Según la Regla 10 del RIPA, los buques que utilicen un dispositivo de separación de tráfico deberán…",
+   "opciones": [
+    "Navegar siguiendo la dirección general de la corriente de tráfico indicada.",
+    "Fondear en las vías de circulación.",
+    "Al entrar o salir de una vía de circulación, hacerlo por los laterales con el mayor ángulo posible.",
+    "Navegar por la zona de separación."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 10: en un dispositivo de separación de tráfico se navega en la vía apropiada, siguiendo la dirección general del tráfico.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-073",
+   "tema": 6,
+   "enunciado": "Según la Regla 35 del RIPA, un buque de propulsión mecánica en navegación pero parado y sin arrancada con visibilidad reducida emitirá:",
+   "opciones": [
+    "Tres pitadas largas.",
+    "Una corta seguida de dos largas que no excedan de dos segundos entre ambas.",
+    "A intervalos que no excedan de dos minutos, dos pitadas largas consecutivas separadas por un intervalo de unos dos segundos entre ambas.",
+    "Una pitada larga que no exceda de dos minutos."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 35: con visibilidad reducida, un buque de motor parado y sin arrancada da dos pitadas largas, separadas unos 2 s, cada 2 minutos como máximo.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 30",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 24"
+   ]
+  },
+  {
+   "id": "t06-074",
+   "tema": 6,
+   "enunciado": "Según la Regla 16 del RIPA, un buque dedicado a la pesca de arrastre de más de 50 metros de eslora, con arrancada, exhibirá:",
+   "opciones": [
+    "Dos luces todo horizonte, en línea vertical la superior roja y la inferior blanca, luces de costado, luz de alcance y una luz de tope.",
+    "Dos luces todo horizonte, en línea vertical la superior blanca y la inferior roja, luces de costado, luz de alcance y una luz de tope.",
+    "Dos luces todo horizonte, en línea vertical la superior verde y la inferior blanca, luces de costado, luz de alcance y dos luces de tope.",
+    "Dos luces todo horizonte, en línea vertical la superior verde y la inferior blanca, luces de costado, luz de alcance y una luz de tope."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 26: el arrastrero muestra verde sobre blanca todo horizonte, costados y alcance con arrancada, y una luz de tope a popa si mide 50 m o más.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 24",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 25"
+   ]
+  },
+  {
+   "id": "t06-075",
+   "tema": 6,
+   "enunciado": "Según la Regla 9 del RIPA, los buques que naveguen a lo largo de un paso o canal angosto…",
+   "opciones": [
+    "Se mantendrán lo más cerca posible del límite exterior del paso o canal que quede por su costado de estribor, siempre que puedan hacerlo sin que ello entrañe peligro.",
+    "Fondearán inmediatamente, a la espera de instrucciones.",
+    "Se mantendrán lo más cerca posible del centro del canal.",
+    "Tendrá prioridad de paso el que venga del sur, debiendo caer hacia estribor aquel buque que venga del norte."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 9: en un canal angosto se navega lo más cerca posible del límite exterior que quede por estribor, si es seguro.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 27"
+   ]
+  },
+  {
+   "id": "t06-076",
+   "tema": 6,
+   "enunciado": "Regla 1. El Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA), será de aplicación…",
+   "opciones": [
+    "Solo a los buques que naveguen exclusivamente en alta mar.",
+    "A todos los buques en alta mar y en todas las aguas que tengan comunicación con ella y sean navegables por los buques de navegación marítima.",
+    "Solo a los buques que naveguen exclusivamente por la zona contigua y en todas las aguas que tengan comunicación con ella.",
+    "Solo los buques que naveguen exclusivamente por la zona contigua y las aguas interiores."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 1: el RIPA se aplica a todos los buques en alta mar y en las aguas comunicadas con ella que sean navegables por buques marítimos.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 18"
+   ]
+  },
+  {
+   "id": "t06-077",
+   "tema": 6,
+   "enunciado": "Regla 3. Se entiende por buque sin gobierno…",
+   "opciones": [
+    "A todo buque navegando a vela siempre que su maquinaria propulsora, caso de llevarla, no se esté utilizando.",
+    "A todo buque que por cualquier circunstancia excepcional es incapaz de maniobrar en la forma exigida por el RIPA y, por consiguiente, no puede apartarse de la derrota de otro buque.",
+    "A todo buque que, debido a la naturaleza de su trabajo, tiene reducida su capacidad para maniobrar en la forma exigida por el RIPA y, por consiguiente, no puede apartarse de la derrota de otro buque.",
+    "A todo buque de propulsión mecánica que, por razón de su calado en relación con la profundidad disponible de agua, tiene muy restringida su capacidad de apartarse de la derrota que está siguiendo."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 3: buque sin gobierno es el que, por una circunstancia excepcional, no puede maniobrar como exige el RIPA ni apartarse de la derrota de otro.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 19"
+   ]
+  },
+  {
+   "id": "t06-078",
+   "tema": 6,
+   "enunciado": "Regla 5. Según el RIPA, todos los buques, en navegación, mantendrán en todo momento, tanto durante el día como de noche:",
+   "opciones": [
+    "Las luces de navegación encendidas, de esta forma se asegurarán una mayor visibilidad.",
+    "Una eficaz vigilancia visual y auditiva, utilizando asimismo todos los medios disponibles para evaluar plenamente la situación y el riesgo de abordaje.",
+    "Su sistema propulsor en marcha para así afrontar cualquier emergencia sobrevenida.",
+    "El Radar encendido."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 5: todos los buques mantendrán siempre una eficaz vigilancia visual y auditiva, usando todos los medios disponibles.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 20"
+   ]
+  },
+  {
+   "id": "t06-079",
+   "tema": 6,
+   "enunciado": "Regla 8. En la maniobra que se realice para evitar un abordaje…",
+   "opciones": [
+    "Deberán evitarse los cambios de rumbo.",
+    "Deberán evitarse los cambios de velocidad.",
+    "Deberán evitarse una sucesión de pequeños cambios de rumbo y/o velocidad.",
+    "Deberán evitarse una sucesión de grandes cambios de rumbo y/o velocidad."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 8: la maniobra debe ser amplia y clara. Hay que evitar una sucesión de pequeños cambios de rumbo o velocidad.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 21"
+   ]
+  },
+  {
+   "id": "t06-080",
+   "tema": 6,
+   "enunciado": "Regla 9. Los buques de eslora inferior a 20 metros que naveguen a lo largo de un paso o canal angosto…",
+   "opciones": [
+    "Podrán cruzar la derrota de un buque que sólo puedan navegar con seguridad dentro de un paso o canal angosto.",
+    "No estorbarán el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto.",
+    "Podrán navegar como deseen.",
+    "Fondearán inmediatamente a la espera de instrucciones."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 9: los buques de menos de 20 m no estorbarán a quien solo puede navegar con seguridad dentro del canal.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-081",
+   "tema": 6,
+   "enunciado": "Regla 10. Los buques de pesca en los dispositivos de separación de tráfico…",
+   "opciones": [
+    "Tendrán preferencia de paso en las vías de circulación.",
+    "No estorbarán el tránsito de cualquier buque que navegue en una vía de circulación.",
+    "No podrán usar la zona de navegación costera.",
+    "No tienen obligación de navegar siguiendo la dirección general de la corriente de tráfico de la vía de circulación en la que se encuentren."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 10: los pesqueros no estorbarán el tránsito de ningún buque que navegue por una vía de circulación.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-082",
+   "tema": 6,
+   "enunciado": "Regla 23. ¿Qué buques están obligados a llevar dos luces de tope?",
+   "opciones": [
+    "Los buques de propulsión mecánica en navegación, mayores de 50 metros de eslora.",
+    "Los buques de vela menores de 50 metros de eslora.",
+    "Los buques fondeados mayores de 50 metros.",
+    "Los buques sin gobierno menores de 50 metros de eslora."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 23: los buques de propulsión mecánica en navegación de 50 m o más llevan dos luces de tope.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 20",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 24"
+   ]
+  },
+  {
+   "id": "t06-083",
+   "tema": 6,
+   "enunciado": "Regla 26. Un buque dedicado a la pesca de arrastre exhibirá:",
+   "opciones": [
+    "Dos luces todo horizonte, en línea vertical la superior roja y la inferior blanca, luces de costado, luz de alcance y si su eslora es mayor de 50 metros una luz de tope.",
+    "Dos luces todo horizonte, en línea vertical la superior blanca y la inferior roja, luces de costado, luz de alcance y si su eslora es mayor de 50 metros una luz de tope.",
+    "Dos luces todo horizonte, en línea vertical la superior verde y la inferior blanca, luces de costado, luz de alcance y si su eslora es mayor de 50 metros dos luces de tope.",
+    "Dos luces todo horizonte, en línea vertical la superior verde y la inferior blanca, luces de costado, luz de alcance y si su eslora es mayor de 50 metros una luz de tope."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 26: el arrastrero muestra verde sobre blanca, costados y alcance, y una luz de tope a popa si mide más de 50 m.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 24",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 26"
+   ]
+  },
+  {
+   "id": "t06-084",
+   "tema": 6,
+   "enunciado": "Regla 32. Cuando varios buques estén a la vista unos de otros, ¿qué significa que uno de los buques emita tres pitadas cortas?.",
+   "opciones": [
+    "Estoy dando atrás.",
+    "Caigo a babor.",
+    "Caigo a estribor.",
+    "Pretendo alcanzarle por su banda de estribor."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 34: tres pitadas cortas significan «estoy dando atrás».",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 29",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 27"
+   ]
+  },
+  {
+   "id": "t06-085",
+   "tema": 6,
+   "enunciado": "Regla 3. Según el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA), la palabra «\u0001» designa a:",
+   "opciones": [
+    "Todo avión que flote sobre el agua.",
+    "Todo helicóptero o similar que flote.",
+    "Toda aeronave proyectada para maniobrar sobre las aguas.",
+    "Únicamente los aviones de Salvamento Marítimo."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 3: hidroavión es toda aeronave proyectada para maniobrar sobre las aguas.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 18"
+   ]
+  },
+  {
+   "id": "t06-086",
+   "tema": 6,
+   "enunciado": "Regla 3. Un buque de pesca de arrastre faenando, es considerado por el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA) como…",
+   "opciones": [
+    "Un buque con capacidad de maniobra restringida.",
+    "Un buque de vela.",
+    "Un buque de pesca.",
+    "Un buque sin gobierno."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 3: un arrastrero faenando es un buque dedicado a la pesca, no un buque de maniobra restringida.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 24",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 19"
+   ]
+  },
+  {
+   "id": "t06-087",
+   "tema": 6,
+   "enunciado": "Regla 6. ¿Qué entiende el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA) por «\u0001»?",
+   "opciones": [
+    "Velocidad máxima del buque.",
+    "Velocidad mínima de crucero.",
+    "Velocidad que nos permite realizar la maniobra adecuada y eficaz para evitar el abordaje.",
+    "Velocidad adecuada para fondear el buque."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 6: velocidad de seguridad es la que permite una maniobra adecuada y eficaz para evitar el abordaje y parar a tiempo.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 20"
+   ]
+  },
+  {
+   "id": "t06-088",
+   "tema": 6,
+   "enunciado": "Regla 12. Un velero que recibe el viento por babor, avista a otro velero a barlovento y no tiene la seguridad de si el último recibe el viento por babor o estribor. ¿Qué deberá hacer?",
+   "opciones": [
+    "Mantenerse apartado de la derrota del otro.",
+    "Seguir a rumbo.",
+    "Virar en redondo.",
+    "Aproar al viento."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 12: si el velero con viento por babor ve a otro a barlovento y no sabe por qué banda recibe el viento, se mantiene apartado.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 13",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-089",
+   "tema": 6,
+   "enunciado": "Según la Regla 13 del Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA):",
+   "opciones": [
+    "Todo buque que alcanza, al ir más rápido, tiene prioridad sobre el buque alcanzado.",
+    "Todo buque alcanzado, al ir más lento, se mantendrá apartado de la derrota del buque que alcanza.",
+    "Todo buque que alcanza nunca se convertirá en buque que cruza.",
+    "Todo buque que alcanza mantendrá su rumbo y velocidad, debiendo ser el buque alcanzado el que debe variar su rumbo y/o velocidad."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 13: el buque que alcanza se aparta siempre, y un cambio posterior de marcación nunca lo convierte en buque que cruza.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-090",
+   "tema": 6,
+   "enunciado": "Regla 21. La luz de tope tiene un arco de luz de...",
+   "opciones": [
+    "225°",
+    "112,5°",
+    "215°",
+    "230°"
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 21: la luz de tope es blanca y cubre un arco de 225º.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 19",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 24"
+   ]
+  },
+  {
+   "id": "t06-091",
+   "tema": 6,
+   "enunciado": "Regla 25. Un velero navegando de noche podrá exhibir…",
+   "opciones": [
+    "Las luces de costado, la de alcance, el tope de proa y dos luces todo horizonte, roja la superior y verde la inferior.",
+    "Las luces de costado, la de alcance y el tope de proa.",
+    "Las luces de costado, la de alcance y dos luces todo horizonte, roja la superior y verde la inferior.",
+    "Las luces de costado y una luz todo horizonte."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 25: el velero puede llevar, además de costados y alcance, dos luces todo horizonte en el tope: roja la superior y verde la inferior.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 24",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 25"
+   ]
+  },
+  {
+   "id": "t06-092",
+   "tema": 6,
+   "enunciado": "Regla 27. Dos luces rojas en la misma vertical son características de…",
+   "opciones": [
+    "Un buque sin gobierno.",
+    "Un buque con capacidad de maniobra restringida.",
+    "Un buque de pesca que no sea de arrastre.",
+    "Una embarcación de práctico."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 27: dos luces rojas todo horizonte en línea vertical indican un buque sin gobierno.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 25",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 26"
+   ]
+  },
+  {
+   "id": "t06-093",
+   "tema": 6,
+   "enunciado": "Regla 34. Cuando un buque de propulsión mecánica en navegación da «\u0001». ¿Qué está indicando?",
+   "opciones": [
+    "Estoy dando atrás.",
+    "Caigo a babor.",
+    "Caigo a estribor.",
+    "Pretendo alcanzarle por su banda de estribor."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 34: dos pitadas cortas significan «caigo a babor».",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 29",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 27"
+   ]
+  },
+  {
+   "id": "t06-094",
+   "tema": 6,
+   "enunciado": "Si los Gobiernos aplican reglas especiales en cuanto a utilizar luces de situación y señales luminosas o marcas adicionales para buques dedicados a la pesca en flotilla, estas deben ser:",
+   "opciones": [
+    "Lo más similar posible a las indicadas en el sistema de balizamiento marítimo del IALA.",
+    "Que se aproximen a lo dispuesto en el Reglamento.",
+    "En la medida de lo posible, serán tales que no puedan confundirse con ninguna luz, marca o señal autorizada en otro lugar del Reglamento.",
+    "Los Gobiernos no pueden imponer reglas especiales."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 1: las señales especiales que fijen los gobiernos no deben poder confundirse con ninguna luz, marca o señal del RIPA.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 18"
+   ]
+  },
+  {
+   "id": "t06-095",
+   "tema": 6,
+   "enunciado": "Un velero ¿se puede considerar como un buque de propulsión mecánica?:",
+   "opciones": [
+    "Sí, si su motor se está utilizando.",
+    "Sí, si su eslora es superior a los 12 metros y la potencia mayor de 15 CV.",
+    "Sólo si su motor supera los 15 CV.",
+    "No, nunca."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 3: un velero que usa el motor, aunque lleve velas izadas, es un buque de propulsión mecánica.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 19"
+   ]
+  },
+  {
+   "id": "t06-096",
+   "tema": 6,
+   "enunciado": "En caso de riesgo de abordaje de dos veleros, se mantendrá apartado de la derrota del otro:",
+   "opciones": [
+    "El que reciba el viento por la banda de babor.",
+    "El que reciba el viento por la banda de estribor.",
+    "El que este a sotavento.",
+    "El que tenga más velas desplegadas."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 12: entre dos veleros, se aparta el que recibe el viento por babor.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 13",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 20"
+   ]
+  },
+  {
+   "id": "t06-097",
+   "tema": 6,
+   "enunciado": "¿Qué buques llevarán dos luces de tope?",
+   "opciones": [
+    "Los buques de vela mayores de 50 metros.",
+    "Los buques fondeados mayores de 50 metros.",
+    "Son correctas la respuesta a) y b).",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 3,
+   "justificacion": "Llevan dos luces de tope los buques de motor de 50 m o más. Los veleros no llevan tope y el fondeado muestra luces de fondeo. Ninguna es correcta.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 23",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-098",
+   "tema": 6,
+   "enunciado": "Si navegando observamos una luz blanca procedente de una linterna, se trata de:",
+   "opciones": [
+    "Un pesquero.",
+    "Una embarcación a vela superior a 12 metros de eslora.",
+    "Una embarcación a más de 10 nudos.",
+    "Un bote a remos."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 25: un bote de remos puede llevar una linterna de luz blanca lista para mostrarla.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 23",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-099",
+   "tema": 6,
+   "enunciado": "Divisamos una draga que ocasiona una obstrucción, se pasará:",
+   "opciones": [
+    "Por el costado que exhiba dos luces rojas en línea vertical.",
+    "Por el costado que exhiba una luz blanca y una verde en línea vertical.",
+    "Por el costado que exhibe una luz verde.",
+    "Por el costado que exhiba dos luces verdes en línea vertical."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 27: la draga marca con dos rojas en vertical la banda obstruida y con dos verdes la banda por la que se puede pasar.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 25",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 24"
+   ]
+  },
+  {
+   "id": "t06-100",
+   "tema": 6,
+   "enunciado": "Si de día observamos un buque con dos bolas negras en línea vertical se trata de",
+   "opciones": [
+    "Un buque restringido por su calado.",
+    "Un buque con capacidad de maniobra restringida.",
+    "Un buque fondeado.",
+    "Un buque sin gobierno."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 27: de día, dos bolas negras en línea vertical indican un buque sin gobierno.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 25",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 25"
+   ]
+  },
+  {
+   "id": "t06-101",
+   "tema": 6,
+   "enunciado": "¿Qué indica un buque que tiene tres luces rojas todo horizonte en línea vertical?",
+   "opciones": [
+    "Buque restringido por su calado.",
+    "Buque cablero.",
+    "Buque remolcador con capacidad de maniobra restringida.",
+    "Peligro: antenas de radar."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 28: tres luces rojas todo horizonte en vertical indican un buque restringido por su calado.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 27",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 26"
+   ]
+  },
+  {
+   "id": "t06-102",
+   "tema": 6,
+   "enunciado": "Un buque fondeado de eslora mayor de 50 metros mostrará de noche:",
+   "opciones": [
+    "Una luz blanca todo horizonte a proa.",
+    "Dos luces blancas todo horizonte, una a proa y otra a popa.",
+    "Dos luces blancas todo horizonte, una a proa y otra a popa y la luz de alcance.",
+    "Dos luces blancas todo horizonte, una a proa y otra a popa y las luces de costado."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 30: el fondeado de más de 50 m muestra dos luces blancas todo horizonte, una a proa y otra más baja a popa.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 28",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 27"
+   ]
+  },
+  {
+   "id": "t06-103",
+   "tema": 6,
+   "enunciado": "Un buque a vela puede considerarse como tal cuando:",
+   "opciones": [
+    "Vaya navegando a vela siempre que su maquinaria propulsora, caso de llevarla, no se esté utilizando.",
+    "Lleva, como mínimo, una vela izada.",
+    "Está proyectado para navegar con un mínimo de una vela.",
+    "Es de recreo y propulsado mediante velas."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 3: buque de vela es el que navega a vela sin utilizar su maquinaria propulsora, si la tiene.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 19"
+   ]
+  },
+  {
+   "id": "t06-104",
+   "tema": 6,
+   "enunciado": "Si navegando de noche observamos por la proa la luz de tope y las de costado de otro buque, estaremos ante una situación de:",
+   "opciones": [
+    "Cruce.",
+    "Alcance.",
+    "Vuelta encontrada.",
+    "Paso por el través de estribor."
+   ],
+   "correcta": 2,
+   "justificacion": "Ver por la proa la luz de tope y las dos de costado del otro indica vuelta encontrada (Regla 14).",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 14",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 21"
+   ]
+  },
+  {
+   "id": "t06-105",
+   "tema": 6,
+   "enunciado": "Un objeto remolcado, inferior a 100 metros de eslora y 25 de manga, poco visible y parcialmente sumergido, exhibirá de noche:",
+   "opciones": [
+    "Una luz blanca todo horizonte a popa.",
+    "Dos luces rojas todo horizonte a popa.",
+    "Una luz amarilla todo horizonte en un punto extremo.",
+    "Una luz blanca todo horizonte en su extremo de proa o cerca de este y otra en el extremo de popa o cerca de éste."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 24: un objeto remolcado poco visible de menos de 25 m de manga lleva una luz blanca todo horizonte en cada extremo, proa y popa.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 21",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-106",
+   "tema": 6,
+   "enunciado": "Un buque dedicado a la pesca de arrastre mostrará como luces características:",
+   "opciones": [
+    "Dos luces todo horizonte roja sobre blanca.",
+    "Dos luces de tope.",
+    "Dos luces todo horizonte verde sobre blanca.",
+    "Dos luces todo horizonte blanca sobre roja."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 26: las luces características del arrastrero son verde sobre blanca, todo horizonte.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 24",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-107",
+   "tema": 6,
+   "enunciado": "Un buque con capacidad de maniobra restringida de día, exhibirá:",
+   "opciones": [
+    "Un cono con el vértice hacia abajo.",
+    "Una marca bicónica unida por sus vértices.",
+    "Tres bolas en línea vertical.",
+    "Tres marcas, la superior e inferior bolas, la central bicónica."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 27: de día, el buque de maniobra restringida muestra bola, bicónica y bola en línea vertical.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 25",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 24"
+   ]
+  },
+  {
+   "id": "t06-108",
+   "tema": 6,
+   "enunciado": "Los buques fondeados exhibirán en el lugar más visible:",
+   "opciones": [
+    "Una luz verde o una marca bicónica.",
+    "En la parte de proa, una luz blanca todo horizonte o una bola negra.",
+    "Tres luces rojas o dos bolas.",
+    "Luces de costado o una marca bicónica."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 30: el fondeado muestra a proa una luz blanca todo horizonte de noche o una bola negra de día.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 28",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 25"
+   ]
+  },
+  {
+   "id": "t06-109",
+   "tema": 6,
+   "enunciado": "¿Qué significa dos pitadas cortas seguidas? (cuando varios buques estén a la vista unos de otros):",
+   "opciones": [
+    "Caigo a babor.",
+    "Caigo a estribor.",
+    "Estoy dando avante.",
+    "Estoy dando atrás."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 34: dos pitadas cortas significan «caigo a babor».",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 29",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 26"
+   ]
+  },
+  {
+   "id": "t06-110",
+   "tema": 6,
+   "enunciado": "Cinco o más pitadas o señales luminosas cortas y rápidas significan:",
+   "opciones": [
+    "Estoy dando atrás.",
+    "Que no se entiende o se tienen dudas de la maniobra del buque al que van dirigidas.",
+    "Tengo avería.",
+    "Caigo a babor."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 34: cinco o más pitadas cortas y rápidas indican que no se entienden las intenciones del otro o hay dudas de su maniobra.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 30",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 27"
+   ]
+  },
+  {
+   "id": "t06-111",
+   "tema": 6,
+   "enunciado": "La definición de la regla 3 del RIPA, «\u0001» corresponde a un…",
+   "opciones": [
+    "buque con capacidad de maniobra restringida.",
+    "buque sin gobierno.",
+    "buque restringido por su calado.",
+    "Ninguna de las tres respuestas es correcta."
+   ],
+   "correcta": 1,
+   "justificacion": "Esa definición de la Regla 3 es la del buque sin gobierno.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 20"
+   ]
+  },
+  {
+   "id": "t06-112",
+   "tema": 6,
+   "enunciado": "Un pesquero de arrastre, además de otras luces, mostrará dos luces en vertical:",
+   "opciones": [
+    "Roja sobre verde.",
+    "Verde sobre blanca.",
+    "Blanca sobre roja.",
+    "Roja sobre blanca."
+   ],
+   "correcta": 1,
+   "justificacion": "El pesquero de arrastre muestra dos luces todo horizonte en vertical: verde sobre blanca.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 24",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-113",
+   "tema": 6,
+   "enunciado": "Si observamos, de noche, un buque con, tres luces rojas todo horizonte en línea vertical además de las luces de navegación habituales, se trata de …",
+   "opciones": [
+    "Un dragaminas trabajando.",
+    "Una embarcación de práctico en movimiento.",
+    "Un buque de propulsión mecánica restringido por su calado.",
+    "Un cablero en movimiento mayor de 50 metros."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 28: tres luces rojas todo horizonte en vertical, además de las de navegación, indican un buque restringido por su calado.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 27",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 24"
+   ]
+  },
+  {
+   "id": "t06-114",
+   "tema": 6,
+   "enunciado": "Una \"pitada corta\" es un sonido de una duración aproximada de:",
+   "opciones": [
+    "Un segundo.",
+    "Tres segundos.",
+    "Dos segundos.",
+    "Medio segundo."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 32: la pitada corta dura aproximadamente un segundo. La larga, de 4 a 6 segundos.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 29",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 25"
+   ]
+  },
+  {
+   "id": "t06-115",
+   "tema": 6,
+   "enunciado": "Navegando de noche, ¿cómo podemos completar las pitadas de maniobra y advertencia?",
+   "opciones": [
+    "Utilizando un teléfono móvil.",
+    "Utilizando el VHF.",
+    "Mediante señales luminosas que se repetirán, según las circunstancias, durante toda la duración de la maniobra.",
+    "Las señales fónicas no pueden acompañarse con ningún tipo de señal, pues puede dar lugar a confusiones."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 34: las pitadas de maniobra pueden completarse con señales luminosas, que se repiten durante la maniobra.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 29",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 26"
+   ]
+  },
+  {
+   "id": "t06-116",
+   "tema": 6,
+   "enunciado": "Cuando un buque esté en peligro y requiera ayuda, utilizará o exhibirá las señales descritas en el RIPA. Marque la respuesta que NO se encuentra en dicho reglamento:",
+   "opciones": [
+    "Un disparo de cañón.",
+    "Cohetes de color rojo.",
+    "Una llamada por teléfono móvil al 112.",
+    "Una alerta de socorro mediante llamada selectiva digital."
+   ],
+   "correcta": 2,
+   "justificacion": "El Anexo IV del RIPA incluye el cañonazo, los cohetes rojos y la alerta por llamada selectiva digital. La llamada al 112 no figura en él.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 31",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 27"
+   ]
+  },
+  {
+   "id": "t07-037",
+   "tema": 7,
+   "enunciado": "A la acción de aflojar un poco un cabo, cable o cadena que esté trabajando se le denomina…",
+   "opciones": [
+    "Cobrar.",
+    "Virar.",
+    "Lascar.",
+    "Adujar."
+   ],
+   "correcta": 2,
+   "justificacion": "Lascar es aflojar poco a poco un cabo, cable o cadena que está trabajando. Cobrar es tirar de él.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 28"
+   ]
+  },
+  {
+   "id": "t07-038",
+   "tema": 7,
+   "enunciado": "Si queremos atracar en punta, con viento de tierra, debemos…",
+   "opciones": [
+    "Acercarnos al muelle por la banda de estribor y dar seguidamente dos largos, uno en proa y otro en popa.",
+    "Acercarnos al muelle de proa y hacer firme dos largos en proa. Uno a estribor y otro a babor.",
+    "Acercarnos al muelle de proa y hacer firme la codera en popa.",
+    "Acercarnos al muelle por la banda de babor y dar seguidamente un través en popa."
+   ],
+   "correcta": 1,
+   "justificacion": "Atracar en punta es atracar de proa (o de popa) al muelle. Con viento de tierra, se dan dos largos en proa, uno por cada banda.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 29"
+   ]
+  },
+  {
+   "id": "t07-039",
+   "tema": 7,
+   "enunciado": "A la velocidad mínima a la cual una embarcación es capaz de maniobrar adecuadamente se le denomina…",
+   "opciones": [
+    "Arrancada.",
+    "Ciaboga.",
+    "Velocidad de gobierno.",
+    "Corriente de expulsión."
+   ],
+   "correcta": 2,
+   "justificacion": "La velocidad de gobierno es la mínima con la que el timón actúa y el barco maniobra bien.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 28"
+   ]
+  },
+  {
+   "id": "t07-040",
+   "tema": 7,
+   "enunciado": "A la maniobra que consiste en atracar una embarcación al costado de otra se le denomina…",
+   "opciones": [
+    "Atraque en punta.",
+    "Abarloarse.",
+    "Encapillar.",
+    "Abatir."
+   ],
+   "correcta": 1,
+   "justificacion": "Abarloarse es atracar o amarrarse al costado de otra embarcación.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 29"
+   ]
+  },
+  {
+   "id": "t07-041",
+   "tema": 7,
+   "enunciado": "¿Cómo se denominan los cabos que se utilizan para atracar el barco al muelle?",
+   "opciones": [
+    "Largo, través y esprín.",
+    "Largo, codera y ballestrinque.",
+    "Largo, calabrote y esprín.",
+    "Largo, esprín y ballestrinque."
+   ],
+   "correcta": 0,
+   "justificacion": "Los cabos para atracar al muelle son los largos, los traveses y los esprines.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 29"
+   ]
+  },
+  {
+   "id": "t07-042",
+   "tema": 7,
+   "enunciado": "Amarrar de punta a un muelle es:",
+   "opciones": [
+    "Amarrar proa o popa al muelle.",
+    "Amarrar popa a otro buque.",
+    "Amarrar de costado al muelle.",
+    "Amarrar abarloado a otro buque."
+   ],
+   "correcta": 0,
+   "justificacion": "Amarrar de punta es amarrar con la proa o la popa al muelle.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 28"
+   ]
+  },
+  {
+   "id": "t07-043",
+   "tema": 7,
+   "enunciado": "¿Qué efecto tiene el largo de popa en las maniobras?",
+   "opciones": [
+    "Al virarlo el barco va avante y atraca la popa.",
+    "Al virarlo el barco va avante y atraca la proa.",
+    "Al virarlo el barco va atrás y atraca la popa.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "justificacion": "El largo de popa sale de la popa hacia un noray situado a popa: al virarlo, el barco va atrás y la popa se acerca al muelle.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 29"
+   ]
+  },
+  {
+   "id": "t08-043",
+   "tema": 8,
+   "enunciado": "Durante nuestra travesía hemos varado en un fondo de arena, ¿qué podríamos hacer para salir de la embarrancada?.",
+   "opciones": [
+    "Llenar todos los tanques que tengamos vacíos para aumentar el calado de la embarcación.",
+    "Esperar la bajamar.",
+    "Trasladar pesos a la zona de la embarcación en la que haya menos fondo.",
+    "Aligerar pesos en la embarcación para disminuir los calados."
+   ],
+   "correcta": 3,
+   "justificacion": "Para salir de una varada en arena se aligeran pesos, así el barco cala menos. Llenar tanques aumentaría el calado.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 30"
+   ]
+  },
+  {
+   "id": "t08-044",
+   "tema": 8,
+   "enunciado": "Si eliminamos el calor para reducir la temperatura del combustible, estaremos apagando un incendio por…",
+   "opciones": [
+    "Sofocación.",
+    "Dispersión.",
+    "Enfriamiento.",
+    "Inhibición de la reacción en cadena."
+   ],
+   "correcta": 2,
+   "justificacion": "Quitar calor para bajar la temperatura del combustible es extinguir por enfriamiento.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 31"
+   ]
+  },
+  {
+   "id": "t08-045",
+   "tema": 8,
+   "enunciado": "¿Qué medidas debemos tomar antes de abandonar la embarcación?.",
+   "opciones": [
+    "Solicitar ayuda a través de la VHF.",
+    "Lanzar las señales pirotécnicas, si se considera oportuno.",
+    "Ponernos el chaleco salvavidas.",
+    "Todas las respuestas son correctas."
+   ],
+   "correcta": 3,
+   "justificacion": "Antes de abandonar el barco: pedir ayuda por VHF, lanzar pirotecnia si conviene y ponerse el chaleco. Todas son correctas.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 32"
+   ]
+  },
+  {
+   "id": "t08-046",
+   "tema": 8,
+   "enunciado": "Si tenemos un abordaje y la proa del otro barco se ha incrustado en el costado del nuestro. ¿Qué debemos de hacer en esta situación?",
+   "opciones": [
+    "Realizar rápidamente un análisis de cuáles son los daños producidos.",
+    "Separar las embarcaciones lo antes posible.",
+    "Abroncar al patrón de la otra embarcación.",
+    "Si la vía de agua está localizada en la misma línea de flotación o cerca de ella se procurará escorar la embarcación hacia la banda donde se ha producido el abordaje."
+   ],
+   "correcta": 0,
+   "justificacion": "Con la proa del otro barco incrustada, lo primero es analizar rápidamente los daños antes de separar los barcos.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 30"
+   ]
+  },
+  {
+   "id": "t08-047",
+   "tema": 8,
+   "enunciado": "Hemos sufrido una vía de agua. ¿Qué medida podríamos tomar para evitar la inundación de nuestra embarcación?",
+   "opciones": [
+    "Abriremos los grifos de fondo.",
+    "Escoraremos la embarcación hacia la banda donde tenemos la vía de agua.",
+    "Taponaremos la vía de agua con espiches y/o colchonetas.",
+    "Desconectaremos la bomba de achique."
+   ],
+   "correcta": 2,
+   "justificacion": "Una vía de agua se tapona con espiches o colchonetas y se achica con la bomba. Nunca se abren los grifos de fondo.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 31"
+   ]
+  },
+  {
+   "id": "t08-048",
+   "tema": 8,
+   "enunciado": "Cuando se extingue un incendio por sofocación…",
+   "opciones": [
+    "El mecanismo de extinción de incendios actúa eliminando el calor, reduciendo la temperatura del combustible.",
+    "Se ahoga el fuego al eliminar el oxígeno de la combustión.",
+    "Se retira o elimina el elemento combustible.",
+    "Se impide la trasmisión de calor de unas partículas a otras del combustible, interponiendo separadores entre ellas."
+   ],
+   "correcta": 1,
+   "justificacion": "La sofocación ahoga el fuego eliminando el oxígeno (comburente) de la combustión.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 32"
+   ]
+  },
+  {
+   "id": "t08-049",
+   "tema": 8,
+   "enunciado": "¿Qué características tiene una hemorragia arterial?",
+   "opciones": [
+    "Sangre roja brillante que sale sin presión.",
+    "Sangre roja oscura que sale de forma continua.",
+    "Sangre roja oscura que sale sin presión.",
+    "Sangre roja, brillante, que sale a borbotones."
+   ],
+   "correcta": 3,
+   "justificacion": "La hemorragia arterial es de sangre roja brillante que sale a borbotones, al ritmo del pulso.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 31"
+   ]
+  },
+  {
+   "id": "t08-050",
+   "tema": 8,
+   "enunciado": "La cuña cónica, de madera, que puede usarse como medida de fortuna para taponar una vía de agua circular se denomina:",
+   "opciones": [
+    "Espeque.",
+    "Espiche.",
+    "Tapacete.",
+    "Capacete."
+   ],
+   "correcta": 1,
+   "justificacion": "El espiche es una cuña cónica de madera para taponar vías de agua circulares.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 32"
+   ]
+  },
+  {
+   "id": "t08-051",
+   "tema": 8,
+   "enunciado": "¿Qué agente extintor debe excluirse, por peligroso, en la extinción de un incendio en la instalación eléctrica de una embarcación?",
+   "opciones": [
+    "Gas inerte.",
+    "Polvo seco.",
+    "Dióxido de carbono.",
+    "Agua."
+   ],
+   "correcta": 3,
+   "justificacion": "En fuegos eléctricos no se usa agua, por riesgo de electrocución. Se usa CO₂ o polvo seco.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 30"
+   ]
+  },
+  {
+   "id": "t08-052",
+   "tema": 8,
+   "enunciado": "¿Por dónde se producen con más frecuencia las vías de agua en una embarcación?",
+   "opciones": [
+    "Por los orificios practicados en la obra muerta del casco.",
+    "Por los orificios practicados en la cubierta principal.",
+    "Por los orificios practicados en la obra viva del barco.",
+    "Por los orificios practicados en los mamparos."
+   ],
+   "correcta": 2,
+   "justificacion": "Las vías de agua suelen producirse por los orificios de la obra viva: grifos de fondo, bocina, limera…",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 31"
+   ]
+  },
+  {
+   "id": "t08-053",
+   "tema": 8,
+   "enunciado": "Las contusiones son lesiones producidas por:",
+   "opciones": [
+    "Golpes que no producen heridas en la piel.",
+    "Golpes que producen heridas en la piel.",
+    "Un objeto cortante.",
+    "Una descarga eléctrica."
+   ],
+   "correcta": 0,
+   "justificacion": "Las contusiones son lesiones por golpes que no rompen la piel.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 32"
+   ]
+  },
+  {
+   "id": "t09-046",
+   "tema": 9,
+   "enunciado": "Al aparato que consiste en una manga de tejido en forma troncocónica alargada, abierta por los extremos, que se orienta según el viento y que sirve para indicar la dirección del viento, se le denomina…",
+   "opciones": [
+    "Anemómetro",
+    "Veleta",
+    "Catavientos",
+    "Barómetro"
+   ],
+   "correcta": 2,
+   "justificacion": "El catavientos es una manga troncocónica de tejido que se orienta con el viento e indica su dirección.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 33"
+   ]
+  },
+  {
+   "id": "t09-047",
+   "tema": 9,
+   "enunciado": "De las siguientes afirmaciones, relativas a las borrascas, indique la respuesta verdadera.",
+   "opciones": [
+    "En las borrascas, en el hemisferio norte, la circulación del viento va en el sentido de las agujas del reloj.",
+    "En las borrascas, en el hemisferio norte, la circulación del viento va en el sentido contrario a las agujas del reloj.",
+    "En el Atlántico Norte, y por regla general, las borrascas se trasladan de Este a Oeste.",
+    "En el Atlántico Norte, y por regla general, las borrascas se trasladan de Norte a Sur."
+   ],
+   "correcta": 1,
+   "justificacion": "En el hemisferio norte, el viento gira en las borrascas en sentido contrario a las agujas del reloj. Se desplazan de oeste a este.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 34"
+   ]
+  },
+  {
+   "id": "t09-048",
+   "tema": 9,
+   "enunciado": "Se denomina viento aparente al…",
+   "opciones": [
+    "Viento que existe cuando una embarcación está parada.",
+    "Viento que genera el propio barco cuando este está en movimiento.",
+    "Viento que resulta de la combinación del viento real y del viento relativo.",
+    "Todas las respuestas son falsas."
+   ],
+   "correcta": 2,
+   "justificacion": "El viento aparente, el que se nota a bordo, resulta de combinar el viento real con el relativo creado por la marcha del barco.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 35"
+   ]
+  },
+  {
+   "id": "t09-049",
+   "tema": 9,
+   "enunciado": "¿Cuál de las siguientes respuestas corresponde con las características de una borrasca en el hemisferio Norte?",
+   "opciones": [
+    "El viento circula en sentido contrario a las agujas del reloj.",
+    "El viento circula en el sentido de las agujas del reloj.",
+    "Generalmente se trasladan de Este a Oeste.",
+    "Área de altas presiones."
+   ],
+   "correcta": 0,
+   "justificacion": "En el hemisferio norte, el viento circula en las borrascas en sentido antihorario.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 33"
+   ]
+  },
+  {
+   "id": "t09-050",
+   "tema": 9,
+   "enunciado": "Decimos que el viento ha racheado cuando…",
+   "opciones": [
+    "Disminuye su intensidad a medida que aumentamos nuestra velocidad.",
+    "Aumenta su intensidad.",
+    "Cambia repentinamente su intensidad en intervalos generalmente cortos.",
+    "Disminuye si intensidad totalmente."
+   ],
+   "correcta": 2,
+   "justificacion": "Rachear es cambiar bruscamente la intensidad del viento en intervalos cortos.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 34"
+   ]
+  },
+  {
+   "id": "t09-051",
+   "tema": 9,
+   "enunciado": "La escala Douglas describe el estado de la mar…",
+   "opciones": [
+    "En función de la temperatura del agua del mar.",
+    "En función de la fuerza del viento.",
+    "En función de la presión atmosférica en la superficie del mar.",
+    "En función de la altura de las olas."
+   ],
+   "correcta": 3,
+   "justificacion": "La escala Douglas describe el estado de la mar según la altura de las olas.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 35"
+   ]
+  },
+  {
+   "id": "t09-052",
+   "tema": 9,
+   "enunciado": "¿Cómo circula el viento alrededor de un anticiclón en el hemisferio Norte?",
+   "opciones": [
+    "En el sentido contrario a las agujas de reloj y con una componente hacia adentro.",
+    "En el mismo sentido a las agujas del reloj y con una componente hacia fuera.",
+    "Lateralmente hacia el interior del conjunto.",
+    "De Sur a Norte."
+   ],
+   "correcta": 1,
+   "justificacion": "En el hemisferio norte, el viento gira en los anticiclones en sentido horario y con componente hacia fuera.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 34"
+   ]
+  },
+  {
+   "id": "t09-053",
+   "tema": 9,
+   "enunciado": "¿Cuál de las siguientes afirmaciones es la correcta?",
+   "opciones": [
+    "Las isobaras son líneas que unen puntos de igual presión atmosférica.",
+    "Las isobaras son líneas que unen puntos de diferente velocidad del viento.",
+    "Las isobaras son líneas que unen puntos de igual temperatura.",
+    "Las isobaras son líneas que unen puntos de igual humedad."
+   ],
+   "correcta": 0,
+   "justificacion": "Las isobaras unen puntos de igual presión atmosférica.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 35"
+   ]
+  },
+  {
+   "id": "t09-054",
+   "tema": 9,
+   "enunciado": "El milibar se utiliza en meteorología para medir:",
+   "opciones": [
+    "La humedad.",
+    "La visibilidad.",
+    "La presión.",
+    "La temperatura."
+   ],
+   "correcta": 2,
+   "justificacion": "El milibar es una unidad de presión: 1013,2 mb es la presión normal.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 36"
+   ]
+  },
+  {
+   "id": "t09-055",
+   "tema": 9,
+   "enunciado": "El barómetro es un aparato que mide:",
+   "opciones": [
+    "La humedad.",
+    "El viento.",
+    "La temperatura.",
+    "La presión."
+   ],
+   "correcta": 3,
+   "justificacion": "El barómetro mide la presión atmosférica.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 33"
+   ]
+  },
+  {
+   "id": "t09-056",
+   "tema": 9,
+   "enunciado": "Se dice que el viento cae cuando:",
+   "opciones": [
+    "Aumenta su intensidad.",
+    "Se desploma verticalmente.",
+    "Cambia a dirección opuesta.",
+    "Disminuye su intensidad."
+   ],
+   "correcta": 3,
+   "justificacion": "Se dice que el viento cae cuando disminuye su intensidad.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 35"
+   ]
+  },
+  {
+   "id": "t09-057",
+   "tema": 9,
+   "enunciado": "Una subida significativa de la presión nos indica:",
+   "opciones": [
+    "Temporal.",
+    "Fuertes chubascos.",
+    "Empeoramiento del tiempo.",
+    "Mejoría del tiempo."
+   ],
+   "correcta": 3,
+   "justificacion": "Una subida significativa de la presión anuncia mejoría del tiempo.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 36"
+   ]
+  },
+  {
+   "id": "t09-058",
+   "tema": 9,
+   "enunciado": "El milibar, es una unidad de:",
+   "opciones": [
+    "Presión.",
+    "Temperatura.",
+    "Humedad.",
+    "Gradiente."
+   ],
+   "correcta": 0,
+   "justificacion": "El milibar es una unidad de presión.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 33"
+   ]
+  },
+  {
+   "id": "t09-059",
+   "tema": 9,
+   "enunciado": "Cuando el viento cambia de dirección se dice que:",
+   "opciones": [
+    "Cae.",
+    "Rachea.",
+    "Rola.",
+    "Vira."
+   ],
+   "correcta": 2,
+   "justificacion": "Rolar es cambiar la dirección del viento.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 35"
+   ]
+  },
+  {
+   "id": "t09-060",
+   "tema": 9,
+   "enunciado": "El viento que se produce debido a que la tierra se enfría más rápidamente durante la noche que el agua del mar adyacente se conoce como:",
+   "opciones": [
+    "Brisa costera.",
+    "Brisa marina.",
+    "Mistral.",
+    "Terral o brisa de tierra."
+   ],
+   "correcta": 3,
+   "justificacion": "El terral sopla de noche de tierra a mar, porque la tierra se enfría antes que el agua.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 36"
+   ]
+  },
+  {
+   "id": "t09-061",
+   "tema": 9,
+   "enunciado": "En los mapas del tiempo, las líneas trazadas que unen los puntos de igual presión atmosférica, se denominan:",
+   "opciones": [
+    "Isobatas.",
+    "Isogonas.",
+    "Isobaras.",
+    "Isotermas."
+   ],
+   "correcta": 2,
+   "justificacion": "Las isobaras unen puntos de igual presión. Las isobatas unen puntos de igual profundidad.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 34"
+   ]
+  },
+  {
+   "id": "t09-062",
+   "tema": 9,
+   "enunciado": "La escala de Beaufort, se utiliza para conocer:",
+   "opciones": [
+    "La altura de las olas.",
+    "La intensidad del viento.",
+    "La tensión del vapor.",
+    "La temperatura."
+   ],
+   "correcta": 1,
+   "justificacion": "La escala Beaufort mide la fuerza o intensidad del viento.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 35"
+   ]
+  },
+  {
+   "id": "t09-063",
+   "tema": 9,
+   "enunciado": "La persistencia es:",
+   "opciones": [
+    "La distancia en que el viento sopla en la misma dirección.",
+    "La intensidad del viento.",
+    "El tiempo que el viento sopla en la misma dirección.",
+    "El fetch."
+   ],
+   "correcta": 2,
+   "justificacion": "La persistencia es el tiempo que el viento sopla en la misma dirección.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 36"
+   ]
+  },
+  {
+   "id": "t10-046",
+   "tema": 10,
+   "enunciado": "La publicación náutica que indica las características de la costa y de los puertos, se denomina:",
+   "opciones": [
+    "Derrotero.",
+    "Libro de Faros.",
+    "Guía náutica para la navegación de recreo.",
+    "Reglamento Internacional para Prevenir Abordajes en la mar."
+   ],
+   "correcta": 0,
+   "justificacion": "El derrotero describe la costa, los puertos y sus peligros. El Libro de Faros describe las luces.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t10-047",
+   "tema": 10,
+   "enunciado": "El ángulo medido entre el Norte verdadero y la línea proa-popa del buque se denomina:",
+   "opciones": [
+    "Rumbo magnético.",
+    "Rumbo de aguja.",
+    "Declinación magnética.",
+    "Rumbo verdadero."
+   ],
+   "correcta": 3,
+   "justificacion": "El rumbo verdadero es el ángulo entre el norte verdadero y la línea proa-popa.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 38"
+   ]
+  },
+  {
+   "id": "t10-048",
+   "tema": 10,
+   "enunciado": "El ángulo formado entre el visual a un punto de la costa y el Norte magnético se denomina:",
+   "opciones": [
+    "Demora verdadera.",
+    "Demora magnética.",
+    "Desvío.",
+    "Demora de aguja."
+   ],
+   "correcta": 1,
+   "justificacion": "La demora magnética es el ángulo entre el norte magnético y la visual a un punto.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 13",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 39"
+   ]
+  },
+  {
+   "id": "t10-049",
+   "tema": 10,
+   "enunciado": "El efecto que produce la corriente sobre el rumbo verdadero de la embarcación, se denomina:",
+   "opciones": [
+    "Abatimiento.",
+    "Deriva.",
+    "Rumbo efectivo.",
+    "Rumbo de superficie."
+   ],
+   "correcta": 1,
+   "justificacion": "La deriva es el efecto de la corriente sobre el rumbo. El abatimiento lo produce el viento.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 17",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-050",
+   "tema": 10,
+   "enunciado": "La marcación se mide:",
+   "opciones": [
+    "De proa a popa de 0° a 90° hacia babor y estribor.",
+    "Desde la proa de 0° a 360° en el sentido contrario a las agujas del reloj.",
+    "Desde la proa hacia popa de 0° a 180° por estribor o babor.",
+    "De proa a popa de 0° a 45° en el sentido de las agujas del reloj."
+   ],
+   "correcta": 2,
+   "justificacion": "La marcación se mide desde la proa hacia popa, de 0º a 180º, por estribor o por babor.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 15",
+   "verificada": true,
+   "origen": [
+    "199067-PER marzo- 2023 Tipo 1 ok 1.pdf nº 41"
+   ]
+  },
+  {
+   "id": "t10-051",
+   "tema": 10,
+   "enunciado": "Al círculo máximo normal al eje de la Tierra, separado de los Polos 90°, y que divide la Tierra en los hemisferios Norte y Sur, se le denomina.",
+   "opciones": [
+    "Ecuador.",
+    "Meridiano de lugar.",
+    "Meridiano de Greenwich.",
+    "Latitud."
+   ],
+   "correcta": 0,
+   "justificacion": "El Ecuador es el círculo máximo perpendicular al eje de la Tierra, a 90º de los polos, que la divide en hemisferios norte y sur.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t10-052",
+   "tema": 10,
+   "enunciado": "Indique la respuesta correcta.",
+   "opciones": [
+    "La longitud es el arco de meridiano del lugar contado desde el Ecuador hasta el paralelo del lugar.",
+    "Los puntos que están en el mismo meridiano están en la misma latitud.",
+    "La latitud se mide de 0° a 180°.",
+    "La longitud es el arco de Ecuador contado desde el meridiano de Greenwich hasta el meridiano de lugar."
+   ],
+   "correcta": 3,
+   "justificacion": "La longitud es el arco de Ecuador entre el meridiano de Greenwich y el meridiano del lugar (0º a 180º, E u W).",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 38"
+   ]
+  },
+  {
+   "id": "t10-053",
+   "tema": 10,
+   "enunciado": "¿Dónde podemos encontrar el valor de la declinación magnética del año de edición, así como el incremento o el decremento anual para su corrección en años posteriores?",
+   "opciones": [
+    "En la carta náutica.",
+    "En el libro de faros.",
+    "En el anuario de mareas.",
+    "En el Reglamento Internacional para Prevenir Abordajes en la Mar."
+   ],
+   "correcta": 0,
+   "justificacion": "La carta náutica indica la declinación magnética del año de edición y su variación anual.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 39"
+   ]
+  },
+  {
+   "id": "t10-054",
+   "tema": 10,
+   "enunciado": "El desvío de aguja varía en función…",
+   "opciones": [
+    "De la velocidad de la embarcación.",
+    "De la latitud.",
+    "De la longitud.",
+    "Del rumbo."
+   ],
+   "correcta": 3,
+   "justificacion": "El desvío lo causa el magnetismo del propio barco y cambia con el rumbo.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-055",
+   "tema": 10,
+   "enunciado": "Las líneas que, en las cartas náuticas, unen puntos de igual profundidad se denominan…",
+   "opciones": [
+    "Enfilaciones.",
+    "Demoras.",
+    "Veriles.",
+    "Distancias."
+   ],
+   "correcta": 2,
+   "justificacion": "Los veriles (líneas isobáticas) unen puntos de igual profundidad en la carta.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 13",
+   "verificada": true,
+   "origen": [
+    "199077-PER junio-2023 Tipo 1 ok 1.pdf nº 41"
+   ]
+  },
+  {
+   "id": "t10-056",
+   "tema": 10,
+   "enunciado": "Se llama marcación al ángulo formado entre:",
+   "opciones": [
+    "La línea proa-popa y el meridiano magnético.",
+    "La línea proa-popa y el meridiano geográfico.",
+    "La línea proa-popa con referencia a la norte-sur.",
+    "La línea proa-popa y la visual al objeto."
+   ],
+   "correcta": 3,
+   "justificacion": "La marcación es el ángulo entre la línea proa-popa y la visual al objeto.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 15",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t10-057",
+   "tema": 10,
+   "enunciado": "El ángulo que existe entre el Norte verdadero (Nv) y el Norte magnético (Nm) se denomina:",
+   "opciones": [
+    "Corrección total.",
+    "Desvío.",
+    "Declinación magnética.",
+    "Demora."
+   ],
+   "correcta": 2,
+   "justificacion": "La declinación magnética es el ángulo entre el norte verdadero y el norte magnético.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-058",
+   "tema": 10,
+   "enunciado": "Los derroteros, los libros de faros y las cartas de navegación, en España, los publica:",
+   "opciones": [
+    "Real Observatorio Marítimo Español.",
+    "La entidad pública Puertos del Estado.",
+    "El Instituto Hidrográfico de la Marina.",
+    "El Instituto Geográfico Nacional."
+   ],
+   "correcta": 2,
+   "justificacion": "En España, el Instituto Hidrográfico de la Marina publica derroteros, libros de faros y cartas náuticas.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "199082-PER tipo 1 Nov.2023 ok 1.pdf nº 41"
+   ]
+  },
+  {
+   "id": "t10-059",
+   "tema": 10,
+   "enunciado": "Si navegando a rumbo obtenemos una situación en la carta con referencias a puntos destacados representados en la misma, usaremos preferentemente:",
+   "opciones": [
+    "Las marcaciones.",
+    "Las enfilaciones.",
+    "Las sondas.",
+    "Las distancias simultaneas a los faros."
+   ],
+   "correcta": 1,
+   "justificacion": "Con puntos destacados en la carta, la enfilación es la línea de posición más precisa: no depende de la aguja.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 15",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t10-060",
+   "tema": 10,
+   "enunciado": "Al rumbo por cuadrantes: S50ºW, le corresponde el circular:",
+   "opciones": [
+    "310º",
+    "130º",
+    "230º",
+    "250º"
+   ],
+   "correcta": 2,
+   "justificacion": "S50W en circular: 180 + 50 = 230º.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 38"
+   ]
+  },
+  {
+   "id": "t10-061",
+   "tema": 10,
+   "enunciado": "Las características principales del ecuador terrestre son:",
+   "opciones": [
+    "Que es un círculo máximo de la esfera terrestre.",
+    "Que es perpendicular al eje de los polos.",
+    "Que divide a la esfera terrestre en dos hemisferios, el Norte y el Sur.",
+    "Todas las respuestas son válidas."
+   ],
+   "correcta": 3,
+   "justificacion": "El Ecuador es un círculo máximo, perpendicular al eje de los polos, que divide la Tierra en hemisferios norte y sur. Todas son válidas.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 39"
+   ]
+  },
+  {
+   "id": "t10-062",
+   "tema": 10,
+   "enunciado": "El horizonte visible o de la Mar, tiene cuatro cuadrantes al igual que el transportador de ángulos náuticos. El segundo cuadrante está comprendido entre los puntos cardinales:",
+   "opciones": [
+    "Norte y Este.",
+    "Sur y Este.",
+    "Sur y Oeste.",
+    "Norte y Oeste."
+   ],
+   "correcta": 1,
+   "justificacion": "Los cuadrantes se cuentan desde el norte en el sentido de las agujas del reloj: el 1º es NE y el 2º, SE.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 13",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-063",
+   "tema": 10,
+   "enunciado": "Un portulano que a modo de ventana va inserto en una carta y que destaca ampliando un puerto, fondeadero o un lugar de interés para la navegación, se le llama en cartografía:",
+   "opciones": [
+    "Un señalamiento.",
+    "Un paquete.",
+    "Un cartucho.",
+    "Un detalle."
+   ],
+   "correcta": 2,
+   "justificacion": "El cartucho es un recuadro de la carta que muestra a mayor escala un puerto, fondeadero o lugar de interés.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "199101-PER Noviembre 2022ok 1.pdf nº 41"
+   ]
+  },
+  {
+   "id": "t10-064",
+   "tema": 10,
+   "enunciado": "Navegando por una zona concreta, la variación local o declinación magnética afecta:",
+   "opciones": [
+    "Según al tipo de barco que naveguen por esa zona.",
+    "A todo tipo de barco que navegue por esa zona.",
+    "Solo afecta a los buques o embarcaciones de casco de acero.",
+    "A las embarcaciones menores de 24 metros de eslora, no les afecta."
+   ],
+   "correcta": 1,
+   "justificacion": "La declinación magnética depende del lugar, no del barco: afecta a todos los barcos que navegan por esa zona.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t10-065",
+   "tema": 10,
+   "enunciado": "El rumbo cuadrantal S50W, le corresponde el rumbo circular:",
+   "opciones": [
+    "130º",
+    "330º",
+    "230º",
+    "030º"
+   ],
+   "correcta": 2,
+   "justificacion": "S50W en circular: 180 + 50 = 230º.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 38"
+   ]
+  },
+  {
+   "id": "t10-066",
+   "tema": 10,
+   "enunciado": "Los libros que describen las características de la costa, sus accidentes, sus puertos, etc. son:",
+   "opciones": [
+    "Los derroteros publicados por el Instituto Social de la Marina.",
+    "Los libros de faros y derroteros publicados por el Instituto de Navegación.",
+    "Los derroteros publicados por el Instituto Hidrográfico de la Marina.",
+    "Los derroteros y libros de costa que publica el Instituto Cartográfico de Navegación."
+   ],
+   "correcta": 2,
+   "justificacion": "Los derroteros, que describen la costa y sus puertos, los publica el Instituto Hidrográfico de la Marina.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 39"
+   ]
+  },
+  {
+   "id": "t10-067",
+   "tema": 10,
+   "enunciado": "Cuando una embarcación se ve afectada por una corriente y su rumbo presenta un desplazamiento como consecuencia de ello, a este fenómeno se le conoce como:",
+   "opciones": [
+    "Marea.",
+    "Desvío.",
+    "Abatimiento.",
+    "Deriva."
+   ],
+   "correcta": 3,
+   "justificacion": "La deriva es el desplazamiento del rumbo que produce la corriente.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 17",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-068",
+   "tema": 10,
+   "enunciado": "Se ha navegado al rumbo verdadero 090º durante una hora y la carta de navegación nos indica una distancia navegada de 10 millas. La corredera marca también 10 millas navegadas, ¿Cuál será el coeficiente de corredera?:",
+   "opciones": [
+    "0",
+    "1",
+    "1,2",
+    "0,8"
+   ],
+   "correcta": 1,
+   "justificacion": "k = distancia verdadera / distancia de la corredera = 10 / 10 = 1: la corredera está bien ajustada.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Abril 2022 ok 1.pdf nº 41"
+   ]
+  },
+  {
+   "id": "t10-069",
+   "tema": 10,
+   "enunciado": "Si abrigamos dudas sobre detalles o características de la zona costera por donde estamos navegando, consultaremos:",
+   "opciones": [
+    "La Guía Costera correspondiente de la zona o área.",
+    "El manual de navegación Costera de esa zona.",
+    "El Derrotero correspondiente.",
+    "El Boletín Anual de Navegación Litoral de la zona."
+   ],
+   "correcta": 2,
+   "justificacion": "Para dudas sobre la costa se consulta el derrotero de la zona.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t10-070",
+   "tema": 10,
+   "enunciado": "Se conoce como «\u0001» a:",
+   "opciones": [
+    "El nivel de referencia de las sondas en las cartas de navegación españolas.",
+    "El nivel de referencia de la variación local de la zona que abarca la carta.",
+    "El nivel de referencia de referencia de los cambios de marea en la zona.",
+    "El nivel de referencia de densidad del agua de mar por efecto de la salinidad."
+   ],
+   "correcta": 0,
+   "justificacion": "El cero hidrográfico es el nivel de referencia de las sondas de las cartas náuticas españolas.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 17",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 38"
+   ]
+  },
+  {
+   "id": "t10-071",
+   "tema": 10,
+   "enunciado": "¿Cuál será el valor circular del rumbo cuadrantal S60ºW?:",
+   "opciones": [
+    "210º",
+    "240º",
+    "120º",
+    "150º"
+   ],
+   "correcta": 1,
+   "justificacion": "S60W en circular: 180 + 60 = 240º.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 39"
+   ]
+  },
+  {
+   "id": "t10-072",
+   "tema": 10,
+   "enunciado": "El equipo que nos proporciona la velocidad que llevamos y la distancia navegada acumulada es:",
+   "opciones": [
+    "El escandallo.",
+    "El tacómetro.",
+    "La corredera con totalizador.",
+    "El velocímetro con acumulador."
+   ],
+   "correcta": 2,
+   "justificacion": "La corredera con totalizador da la velocidad y la distancia navegada acumulada.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 7",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-073",
+   "tema": 10,
+   "enunciado": "Navegando, los vientos reinantes del través nos pueden causar una alteración del rumbo verdadero que llevamos, esta alteración se le llama:",
+   "opciones": [
+    "Deriva.",
+    "Abatimiento.",
+    "Empuje.",
+    "Guiñada."
+   ],
+   "correcta": 1,
+   "justificacion": "El abatimiento es el desvío del rumbo que produce el viento. La deriva la produce la corriente.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 8",
+   "verificada": true,
+   "origen": [
+    "PER Murcia Junio 2022 ok 1.pdf nº 41"
+   ]
   }
  ]
 }
