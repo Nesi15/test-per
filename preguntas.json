@@ -7685,7 +7685,7 @@
     "Carta de navegación costera",
     "Cartucho",
     "Portulano",
-    "Aproache o recalada"
+    "Aproche o recalada"
    ],
    "correcta": 3,
    "justificacion": "Las cartas de aproches o de recalada facilitan la aproximación a puertos y accidentes importantes.",
@@ -8814,7 +8814,7 @@
   {
    "id": "t03-060",
    "tema": 3,
-   "enunciado": "Decimos que estamos en «\u0001» cuando estas son…",
+   "enunciado": "Decimos que estamos en «aguas poco profundas» cuando estas son…",
    "opciones": [
     "Mesopelagicas.",
     "Abisales.",
@@ -8922,7 +8922,7 @@
   {
    "id": "t03-066",
    "tema": 3,
-   "enunciado": "El término «\u0001» significa:",
+   "enunciado": "El término «correr un temporal» significa:",
    "opciones": [
     "Ponerse proa (amura) a la mar moderando la velocidad.",
     "Ponerse popa (aleta) a la mar aumentando la velocidad.",
@@ -9678,7 +9678,7 @@
   {
    "id": "t06-071",
    "tema": 6,
-   "enunciado": "Según la Regla 14 del RIPA, «\u0001»",
+   "enunciado": "Según la Regla 14 del RIPA, «cuando dos buques de propulsión mecánica naveguen de vuelta encontrada a rumbos opuestos, con riesgo de abordaje…»",
    "opciones": [
     "Cada uno de ellos caerá a babor de forma que pase por la banda de estribor del otro.",
     "Cada uno de ellos caerá a estribor de forma que pase por la banda de babor del otro.",
@@ -9930,7 +9930,7 @@
   {
    "id": "t06-085",
    "tema": 6,
-   "enunciado": "Regla 3. Según el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA), la palabra «\u0001» designa a:",
+   "enunciado": "Regla 3. Según el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA), la palabra «hidroavión» designa a:",
    "opciones": [
     "Todo avión que flote sobre el agua.",
     "Todo helicóptero o similar que flote.",
@@ -9966,7 +9966,7 @@
   {
    "id": "t06-087",
    "tema": 6,
-   "enunciado": "Regla 6. ¿Qué entiende el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA) por «\u0001»?",
+   "enunciado": "Regla 6. ¿Qué entiende el Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA) por «velocidad de seguridad»?",
    "opciones": [
     "Velocidad máxima del buque.",
     "Velocidad mínima de crucero.",
@@ -10074,7 +10074,7 @@
   {
    "id": "t06-093",
    "tema": 6,
-   "enunciado": "Regla 34. Cuando un buque de propulsión mecánica en navegación da «\u0001». ¿Qué está indicando?",
+   "enunciado": "Regla 34. Cuando un buque de propulsión mecánica en navegación da «dos pitadas cortas». ¿Qué está indicando?",
    "opciones": [
     "Estoy dando atrás.",
     "Caigo a babor.",
@@ -10398,7 +10398,7 @@
   {
    "id": "t06-111",
    "tema": 6,
-   "enunciado": "La definición de la regla 3 del RIPA, «\u0001» corresponde a un…",
+   "enunciado": "La definición de la regla 3 del RIPA, «…todo buque que por cualquier circunstancia excepcional es incapaz de maniobrar en la forma exigida por este reglamento y, por consiguiente, no puede apartarse de la derrota de otro buque…» corresponde a un…",
    "opciones": [
     "buque con capacidad de maniobra restringida.",
     "buque sin gobierno.",
@@ -11586,7 +11586,7 @@
   {
    "id": "t10-070",
    "tema": 10,
-   "enunciado": "Se conoce como «\u0001» a:",
+   "enunciado": "Se conoce como «cero hidrográfico» a:",
    "opciones": [
     "El nivel de referencia de las sondas en las cartas de navegación españolas.",
     "El nivel de referencia de la variación local de la zona que abarca la carta.",
