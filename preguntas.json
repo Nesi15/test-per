@@ -12069,6 +12069,906 @@
    "origen": [
     "PER Murcia Junio 2022 ok 1.pdf nº 45"
    ]
+  },
+  {
+   "id": "t01-077",
+   "tema": 1,
+   "enunciado": "La acción de tumbar o inclinar una embarcación se denomina:",
+   "opciones": [
+    "Adrizar",
+    "Escorar",
+    "Arriar",
+    "Arribar"
+   ],
+   "correcta": 1,
+   "justificacion": "Escorar es inclinar el barco hacia una banda. Adrizar es lo contrario: volver a la posición vertical.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 11",
+   "verificada": true,
+   "origen": [
+    "13 marzo-2026_examen_con_plantilla.pdf nº 2"
+   ]
+  },
+  {
+   "id": "t01-078",
+   "tema": 1,
+   "enunciado": "¿Cómo son las hélices gemelas de giro al exterior?:",
+   "opciones": [
+    "La de estribor, dextrógira y la de babor, levógira.",
+    "Ambas levógiras.",
+    "Ambas dextrógiras.",
+    "La de babor, dextrógira y la de estribor, levógira."
+   ],
+   "correcta": 0,
+   "justificacion": "En las hélices gemelas de giro al exterior, vistas desde popa, la de estribor gira a la derecha (dextrógira) y la de babor a la izquierda (levógira).",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "13 marzo-2026_examen_con_plantilla.pdf nº 4"
+   ]
+  },
+  {
+   "id": "t01-079",
+   "tema": 1,
+   "enunciado": "En una embarcación, el costado derecho, según el sentido habitual de la marcha, se llama…",
+   "opciones": [
+    "Babor.",
+    "Estribor.",
+    "Amura.",
+    "Aleta."
+   ],
+   "correcta": 1,
+   "justificacion": "Mirando hacia proa, el costado derecho es estribor y el izquierdo, babor.",
+   "fuente": "Unidad 1 Nomenclatura Náutica 1.pdf, pág. 10",
+   "verificada": true,
+   "origen": [
+    "9 noviembre-24 ok.pdf nº 3"
+   ]
+  },
+  {
+   "id": "t03-070",
+   "tema": 3,
+   "enunciado": "¿Cada cuánto tiempo deberá reemplazarse el material pirotécnico?:",
+   "opciones": [
+    "Cuando lo indique el certificado de navegabilidad.",
+    "Cuando lo indique la fecha de caducidad de cada elemento.",
+    "Al pasar la ITB.",
+    "Cuando lo indique el certificado de despacho de la Capitanía Marítima."
+   ],
+   "correcta": 1,
+   "justificacion": "El material pirotécnico (bengalas, cohetes, fumígenas) se sustituye cuando caduca, según la fecha de cada elemento.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-071",
+   "tema": 3,
+   "enunciado": "¿Cómo se denomina al movimiento de oscilacion de la embarcación en el sentido longitudinal (proa-popa) por causas de las olas?",
+   "opciones": [
+    "Balance.",
+    "Arrufo.",
+    "Cabezada.",
+    "Cuchareo."
+   ],
+   "correcta": 2,
+   "justificacion": "La cabezada es la oscilación longitudinal, de proa a popa. El balance es la transversal.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t03-072",
+   "tema": 3,
+   "enunciado": "La estabilidad estática transversal inicial depende de la separación entre…",
+   "opciones": [
+    "el centro de flotación y el centro de gravedad.",
+    "el centro de carena y el metacentro.",
+    "el centro de gravedad y el metacentro.",
+    "el centro de carena y el centro de gravedad."
+   ],
+   "correcta": 2,
+   "justificacion": "La estabilidad transversal inicial depende de la altura metacéntrica: la distancia entre el centro de gravedad (G) y el metacentro (M).",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "14 junio-2026_examen_con_plantilla.pdf nº 8"
+   ]
+  },
+  {
+   "id": "t03-073",
+   "tema": 3,
+   "enunciado": "Cuando alguien cae accidentalmente al agua, además de tirar el aro salvavidas, procederemos a…",
+   "opciones": [
+    "Tirarnos con el chaleco salvavidas.",
+    "Gritar: ¡Hombre al agua por estribor o por babor!, según sea el caso.",
+    "Dar máquina atrás.",
+    "Esperar a que calme el tiempo para acceder a su auxilio."
+   ],
+   "correcta": 1,
+   "justificacion": "Además de lanzar el aro, hay que avisar a gritos «¡Hombre al agua por estribor (o babor)!» para que la tripulación actúe y no lo pierda de vista.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 9"
+   ]
+  },
+  {
+   "id": "t03-074",
+   "tema": 3,
+   "enunciado": "Lo que NUNCA haremos durante la maniobra de recogida de un náufrago será…",
+   "opciones": [
+    "Señalizar la posición del náufrago.",
+    "Dar máquina atrás en la proximidad del náufrago.",
+    "Meter timón a la banda de caída del náufrago.",
+    "Acercarnos al náufrago por su barlovento."
+   ],
+   "correcta": 1,
+   "justificacion": "Nunca se da máquina atrás cerca del náufrago: la hélice podría herirlo. Se le señaliza, se mete timón a la banda de caída y se le aborda por barlovento.",
+   "fuente": "Unidad 3 Seguridad en el mar 1.pdf, pág. 10",
+   "verificada": false,
+   "origen": [
+    "8 junio-24 Tipo 1 con respuestas.pdf nº 10"
+   ]
+  },
+  {
+   "id": "t04-037",
+   "tema": 4,
+   "enunciado": "Características del salvamento obligatorio:",
+   "opciones": [
+    "Es la ayuda prestada a un buque en situación desesperada, que ya no tiene esperanza de poner a salvo la propiedad y los bienes en peligro.",
+    "Se realiza a las personas.",
+    "Se incurre en responsabilidad penal si no se presta.",
+    "Todas las respuestas anteriores son correctas."
+   ],
+   "correcta": 3,
+   "justificacion": "El salvamento obligatorio se presta a personas en peligro, incluso a un buque sin esperanza de salvar sus bienes, y no prestarlo acarrea responsabilidad penal.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 12"
+   ]
+  },
+  {
+   "id": "t04-038",
+   "tema": 4,
+   "enunciado": "¿Puede exhibirse la bandera de la Comunidad Autónoma en la embarcación?",
+   "opciones": [
+    "Solamente cuando se esté navegando por alta mar.",
+    "Exclusivamente el día de la Comunidad Autónoma.",
+    "Siempre junto con la bandera nacional y en lugar menos preferente que esta.",
+    "Nunca, está prohibido."
+   ],
+   "correcta": 2,
+   "justificacion": "La bandera autonómica puede llevarse, pero siempre junto a la nacional y en un lugar menos destacado que esta.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 9",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 11"
+   ]
+  },
+  {
+   "id": "t04-039",
+   "tema": 4,
+   "enunciado": "Los aceites sucios de las sentinas, ¿se pueden verter al mar?",
+   "opciones": [
+    "No se pueden verter al mar.",
+    "Si navegamos a más de 12 millas.",
+    "Fuera de puerto.",
+    "Navegando a más de 4 millas de la costa."
+   ],
+   "correcta": 0,
+   "justificacion": "Los aceites e hidrocarburos de sentinas no se pueden verter nunca al mar: se guardan a bordo y se entregan en puerto.",
+   "fuente": "Unidad 4 Legislación 1.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "9 noviembre-24 ok.pdf nº 12"
+   ]
+  },
+  {
+   "id": "t05-075",
+   "tema": 5,
+   "enunciado": "¿Qué forma deben tener las marcas especiales?",
+   "opciones": [
+    "De castillete o de espeque.",
+    "De castilletes, cilíndricas o de espeque.",
+    "Cualquiera siempre que no se confundan con las demás marcas para la navegación.",
+    "De castillete, espeque o cónicas."
+   ],
+   "correcta": 2,
+   "justificacion": "La forma de las marcas especiales es libre, siempre que no se confunda con la de otras marcas de navegación.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 5",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 17"
+   ]
+  },
+  {
+   "id": "t05-076",
+   "tema": 5,
+   "enunciado": "El ritmo de la luz de la marca de tope de una marca cardinal Oeste es…",
+   "opciones": [
+    "9 centelleos muy rápidos seguidos de un periodo de oscuridad.",
+    "6 centelleos muy rápidos seguidos de un periodo de oscuridad.",
+    "3 centelleos muy rápidos seguidos de un periodo de oscuridad.",
+    "Centelleo continuo muy rápido."
+   ],
+   "correcta": 0,
+   "justificacion": "La cardinal Oeste emite grupos de 9 centelleos (rápidos o muy rápidos), como las 9 horas del reloj.",
+   "fuente": "Unidad 5 Balizamiento 3.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 15"
+   ]
+  },
+  {
+   "id": "t06-117",
+   "tema": 6,
+   "enunciado": "Regla 3. Se entenderá que los buques están a la vista uno del otro únicamente cuando",
+   "opciones": [
+    "uno pueda ser observado por radar desde el otro.",
+    "uno pueda ser observado por AIS desde el otro.",
+    "uno pueda ser observado visualmente desde el otro.",
+    "uno pueda ser observado por dos tripulantes como mínimo desde el otro."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 3: los buques están a la vista uno del otro solo cuando uno puede ser observado visualmente desde el otro, no por radar ni AIS.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 18"
+   ]
+  },
+  {
+   "id": "t06-118",
+   "tema": 6,
+   "enunciado": "Regla 20. Las reglas relativas a “luces y marcas” …",
+   "opciones": [
+    "Se deben cumplir de noche.",
+    "Deben cumplirse en todas las condiciones meteorológicas.",
+    "Se deben cumplir de día.",
+    "Todas las respuestas anteriores son falsas."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 20: las reglas de luces y marcas se cumplen en todas las condiciones meteorológicas.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 19",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 20"
+   ]
+  },
+  {
+   "id": "t06-119",
+   "tema": 6,
+   "enunciado": "Regla 24. Cuando un buque que empuje y un buque empujado estén unidos mediante una conexión rígida, formando una unidad compuesta, serán considerados:",
+   "opciones": [
+    "Un buque sin gobierno.",
+    "Un buque de propulsión mecánica.",
+    "Remolcador y remolcado.",
+    "Dos buques de propulsión mecánica."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 24: un empujador y un empujado unidos rígidamente forman una unidad que se considera un solo buque de propulsión mecánica.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 21",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 21"
+   ]
+  },
+  {
+   "id": "t06-120",
+   "tema": 6,
+   "enunciado": "Regla 3. La expresión “visibilidad reducida”, la aplica el reglamento (RIPA):",
+   "opciones": [
+    "Siempre que la visibilidad esté disminuida por niebla, bruma, lluvia o cualquier otra circunstancia análoga.",
+    "Desde la puesta hasta la salida del sol.",
+    "Desde el ocaso hasta el orto del sol.",
+    "Todas las respuestas anteriores son correctas."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 3: hay visibilidad reducida cuando la visibilidad disminuye por niebla, bruma, lluvia, nieve, chubascos o circunstancias análogas, de día o de noche.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 18"
+   ]
+  },
+  {
+   "id": "t06-121",
+   "tema": 6,
+   "enunciado": "Regla 16. Todo buque que esté obligado a mantenerse apartado de la derrota de otro buque…",
+   "opciones": [
+    "Maniobrará, en la medida de lo posible, con antelación suficiente y de forma decidida para quedar bien franco de la derrota del otro buque.",
+    "Maniobrará, en la medida de lo posible, con antelación suficiente cayendo siempre a su banda de estribor.",
+    "Maniobrará, en la medida de lo posible, con antelación suficiente dando máquinas atrás y metiendo toda la caña a babor.",
+    "Maniobrará, en la medida de lo posible, con antelación suficiente aumentando siempre la velocidad de su buque, hasta cortarle la proa."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 16: el buque que cede el paso maniobra con antelación suficiente y de forma decidida para quedar bien franco del otro.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 15",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 21"
+   ]
+  },
+  {
+   "id": "t06-122",
+   "tema": 6,
+   "enunciado": "REGLA 4. Las reglas de rumbo y gobierno se aplicarán:",
+   "opciones": [
+    "Cuando exista riesgo de abordaje.",
+    "En cualquier condición de visibilidad.",
+    "Solo durante la noche.",
+    "Solo durante el día."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 4: las reglas de rumbo y gobierno de la sección I se aplican en cualquier condición de visibilidad.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 19"
+   ]
+  },
+  {
+   "id": "t06-123",
+   "tema": 6,
+   "enunciado": "REGLA 17. Un buque que “sigue a rumbo”.",
+   "opciones": [
+    "Puede modificar su rumbo, si con ello evita el abordaje.",
+    "Nunca debe modificar su rumbo.",
+    "Siempre a de modificar su rumbo.",
+    "Buscará un rumbo que sea opuesto al que llevaba."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 17: el buque que sigue a rumbo mantiene rumbo y velocidad, pero puede maniobrar para evitar el abordaje si el otro no lo hace.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 15",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-124",
+   "tema": 6,
+   "enunciado": "Regla 18. Cómo deberá actuar un buque de vela si divisa por su costado de estribor a un buque de propulsión mecánica con riesgo de abordaje:",
+   "opciones": [
+    "Manteniendo su rumbo y velocidad.",
+    "Maniobrando por tener al otro buque por su costado de estribor.",
+    "Caerá a babor.",
+    "Suprimirá toda su arrancada."
+   ],
+   "correcta": 0,
+   "justificacion": "Regla 18: el buque de propulsión mecánica se aparta del de vela. El velero sigue a rumbo, manteniendo rumbo y velocidad.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 15",
+   "verificada": true,
+   "origen": [
+    "13 marzo-2026_examen_con_plantilla.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-125",
+   "tema": 6,
+   "enunciado": "Regla 24. Una luz amarilla la llevan los:",
+   "opciones": [
+    "Los barcos de vela navegando a motor.",
+    "Los barcos dedicados a la pesca con curricán.",
+    "Los barcos sin gobierno.",
+    "Los remolcadores remolcando."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 24: el remolcador que remolca lleva una luz de remolque amarilla sobre la luz de alcance.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 19",
+   "verificada": true,
+   "origen": [
+    "13 marzo-2026_examen_con_plantilla.pdf nº 23"
+   ]
+  },
+  {
+   "id": "t06-126",
+   "tema": 6,
+   "enunciado": "Según la Regla 23 del Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA), ¿Cuáles son las luces mínimas exigibles a una embarcación de propulsión mecánica menor de 7 metros de eslora, navegando a menos de 7 nudos?",
+   "opciones": [
+    "Luz de tope, luces de costado y luz de alcance.",
+    "Una luz blanca todo horizonte.",
+    "Luces de costado y luz de alcance.",
+    "Una luz amarilla todo horizonte y luces de costado."
+   ],
+   "correcta": 1,
+   "justificacion": "Regla 23: un buque de motor de menos de 7 m que no supere los 7 nudos puede llevar solo una luz blanca todo horizonte.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 20",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 25"
+   ]
+  },
+  {
+   "id": "t06-127",
+   "tema": 6,
+   "enunciado": "Según la Regla 15 del Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA), cuando dos buques de propulsión mecánica se crucen con riesgo de abordaje se mantendrá apartado de la derrota del otro:",
+   "opciones": [
+    "El buque que tenga al otro a dos millas náuticas de distancia.",
+    "El buque que tenga el otro a cuatro millas náuticas de distancia.",
+    "El buque que tenga al otro por su costado de babor.",
+    "El buque que tenga al otro por su contado de estribor."
+   ],
+   "correcta": 3,
+   "justificacion": "Regla 15: en una situación de cruce, se aparta el buque que tiene al otro por su costado de estribor.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 15",
+   "verificada": false,
+   "origen": [
+    "8 junio-24 Tipo 1 con respuestas.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t06-128",
+   "tema": 6,
+   "enunciado": "Regla 13. Cuando un buque abrigue dudas de si está o no alcanzando a otro…",
+   "opciones": [
+    "Seguirá a rumbo y velocidad sin variar nada.",
+    "Caerá a estribor en cualquier circunstancia.",
+    "Considerará que lo está haciendo y actuará como buque que alcanza.",
+    "Reducirá velocidad hasta que quede parado."
+   ],
+   "correcta": 2,
+   "justificacion": "Regla 13: si un buque duda de si está alcanzando a otro, considerará que lo alcanza y se mantendrá apartado.",
+   "fuente": "Unidad 6 Ripa 1.pdf, pág. 14",
+   "verificada": true,
+   "origen": [
+    "9 noviembre-24 ok.pdf nº 22"
+   ]
+  },
+  {
+   "id": "t07-044",
+   "tema": 7,
+   "enunciado": "¿Qué es hacer firme un cabo?",
+   "opciones": [
+    "Tirar de un cabo de forma manual.",
+    "Tirar de un cabo por medio de una maquinilla.",
+    "Poner tensión en un cabo.",
+    "Fijar un cabo, impidiéndole todo movimiento."
+   ],
+   "correcta": 3,
+   "justificacion": "Hacer firme un cabo es sujetarlo (a una cornamusa, bita…) para que no se mueva ni corra.",
+   "fuente": "Unidad 7 Maniobras y Navegación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 28"
+   ]
+  },
+  {
+   "id": "t08-054",
+   "tema": 8,
+   "enunciado": "Una quemadura es de segundo grado cuando:",
+   "opciones": [
+    "Afecta a las capas de la piel que se encuentran debajo de la capa superior, apareciendo ampollas.",
+    "Tiene una extensión igual o superior al 50% de la superficie corporal.",
+    "Aparece necrosis.",
+    "Produce un enrojecimiento de la piel."
+   ],
+   "correcta": 0,
+   "justificacion": "La quemadura de segundo grado afecta a las capas bajo la superficie de la piel y produce ampollas. La de primer grado solo enrojece.",
+   "fuente": "Unidad 8 Emergencias en el mar 1.pdf, pág. 3",
+   "verificada": true,
+   "origen": [
+    "14 junio-2026_examen_con_plantilla.pdf nº 30"
+   ]
+  },
+  {
+   "id": "t09-064",
+   "tema": 9,
+   "enunciado": "Los boletines meteorológicos los podremos obtener a través de:",
+   "opciones": [
+    "Los Centros de Coordinación de Salvamento, en los canales establecidos para cada Centro.",
+    "Las Estaciones Costeras por el canal 06.",
+    "Las Autoridades Portuarias por el canal 12.",
+    "Las Capitanías Marítimas por el canal 16."
+   ],
+   "correcta": 0,
+   "justificacion": "Los boletines meteorológicos se reciben de los Centros de Coordinación de Salvamento, en los canales asignados a cada centro.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 33"
+   ]
+  },
+  {
+   "id": "t09-065",
+   "tema": 9,
+   "enunciado": "¿Qué aparato es el que mide y registra la temperatura?",
+   "opciones": [
+    "El termómetro.",
+    "El barómetro.",
+    "El termógrafo.",
+    "El barógrafo"
+   ],
+   "correcta": 2,
+   "justificacion": "El termógrafo mide y registra la temperatura. El termómetro solo la mide; el barómetro y el barógrafo, la presión.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 4",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 34"
+   ]
+  },
+  {
+   "id": "t09-066",
+   "tema": 9,
+   "enunciado": "Los Boletines para zonas costeras realizados por AEMET son emitidos por las estaciones costeras. ¿En qué canal son emitidos los citados boletines?",
+   "opciones": [
+    "Son emitidos en el canal 16 del VHF puesto que es una información considerada de aviso importante a los navegantes.",
+    "Son emitidos en VHF por el canal de trabajo de cada estación previo anuncio en el canal 16.",
+    "Son emitidos por Telefax para su lectura e interpretación del mapa meteorológico por parte del patrón.",
+    "Actualmente ya no se emiten los anuncios por VHF, sino que únicamente se cuelgan en la página de la AEMET, así como en otras páginas web."
+   ],
+   "correcta": 1,
+   "justificacion": "Las estaciones costeras emiten los boletines de AEMET por su canal de trabajo de VHF, tras anunciarlos en el canal 16.",
+   "fuente": "Unidad 9 Meteorología 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "14 junio-2026_examen_con_plantilla.pdf nº 34"
+   ]
+  },
+  {
+   "id": "t10-074",
+   "tema": 10,
+   "enunciado": "Se ve un faro de noche, se identifica por:",
+   "opciones": [
+    "Su altura.",
+    "El color de su luz.",
+    "El color de su luz y ritmo.",
+    "Su altura y el color de su luz."
+   ],
+   "correcta": 2,
+   "justificacion": "De noche un faro se identifica por el color de su luz y su ritmo (destellos, ocultaciones, isofase…), que figuran en la carta y el Libro de Faros.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 16",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 41"
+   ]
+  },
+  {
+   "id": "t10-075",
+   "tema": 10,
+   "enunciado": "Una milla náutica equivale a:",
+   "opciones": [
+    "1832 m",
+    "1842 m",
+    "1852 m",
+    "1862 m"
+   ],
+   "correcta": 2,
+   "justificacion": "La milla náutica mide 1852 m y equivale a un minuto de arco de meridiano (de latitud).",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 6",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 40"
+   ]
+  },
+  {
+   "id": "t10-076",
+   "tema": 10,
+   "enunciado": "¿Cuál de estos ángulos se pueden trazar en la carta de navegación para obtener nuestra posición?",
+   "opciones": [
+    "La demora de aguja a un faro.",
+    "La demora verdadera a un faro.",
+    "El rumbo de aguja que nos indica el compás.",
+    "Una marcación a un faro."
+   ],
+   "correcta": 1,
+   "justificacion": "En la carta se trazan líneas verdaderas: la demora verdadera a un faro. Las demoras de aguja y las marcaciones hay que convertirlas antes.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 14",
+   "verificada": false,
+   "origen": [
+    "8 junio-24 Tipo 1 con respuestas.pdf nº 38"
+   ]
+  },
+  {
+   "id": "t10-077",
+   "tema": 10,
+   "enunciado": "¿Cómo se llama el círculo máximo que pasa por los Polos y por las coordenadas de nuestra situación?",
+   "opciones": [
+    "Meridiano del lugar.",
+    "Meridiano de situación.",
+    "Paralelo de situación.",
+    "Paralelo del lugar."
+   ],
+   "correcta": 0,
+   "justificacion": "El meridiano del lugar es el círculo máximo que pasa por los polos y por la situación del observador.",
+   "fuente": "Unidad 10 Teoría de la navegación 1.pdf, pág. 2",
+   "verificada": true,
+   "origen": [
+    "9 noviembre-24 ok.pdf nº 37"
+   ]
+  },
+  {
+   "id": "t11-024",
+   "tema": 11,
+   "enunciado": "Situados, a HRB: 10h55m, en la línea que une Cabo Espartel y Cabo Trafalgar y a 10 millas del puerto de Barbate (extremo muelle), ponemos rumbo verdadero al puerto de Tánger. ¿A qué hora llegaremos a Tánger si nuestra velocidad es de 12 nudos?",
+   "opciones": [
+    "12h30m",
+    "12h19m",
+    "12h17m",
+    "12h25m"
+   ],
+   "correcta": 1,
+   "justificacion": "Se mide en la carta la distancia de la situación a Tánger, unas 16,8 millas. T = 16,8 / 12 = 1,4 h = 1 h 24 min, y 10:55 + 1:24 = 12:19. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "10 marzo-2025 con respuestas OK 2 (2).pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-025",
+   "tema": 11,
+   "enunciado": "Estamos situados sobre la línea de la oposición de los faros de Punta Europa y Punta Almina y tomamos distancia al faro de Punta Carnero = 6 millas, ¿Cuál es nuestra posición?",
+   "opciones": [
+    "36º 01,5'N – 005º 19,3'W",
+    "36º 03,7'N - 005º 21,2’W",
+    "36º 05,6'N - 005º 23,3'W",
+    "36º 00,0’N - 005º 18,2'W"
+   ],
+   "correcta": 0,
+   "justificacion": "Se traza la oposición Punta Europa-Punta Almina y con el compás un arco de 6 millas desde Punta Carnero. El corte es la situación. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-026",
+   "tema": 11,
+   "enunciado": "Situados a 3 millas al Nv del faro de Punta Almina, damos rumbo verdadero hacia la luz roja del extremo del espigón del puerto de Algeciras con velocidad de 11 nudos. ¿Cuál será nuestro rumbo verdadero?",
+   "opciones": [
+    "329º",
+    "317º",
+    "337º",
+    "347º"
+   ],
+   "correcta": 0,
+   "justificacion": "Se sitúa el punto 3 millas al norte de Punta Almina y se mide con el transportador el rumbo al espigón de Algeciras: Rv 329º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-027",
+   "tema": 11,
+   "enunciado": "Nos encontramos en un punto -A- de situación 36º 10'N – 006º 10'W y queremos dirigirnos hacia otro punto -B- situado en 35º 50'N – 006º 00'W ¿Cuánto tiempo tardaremos en realizar este recorrido a velocidad constante de 8 nudos?",
+   "opciones": [
+    "2h 42m",
+    "0h 40m",
+    "3h 00m",
+    "2h 07m"
+   ],
+   "correcta": 0,
+   "justificacion": "Δlat 20' S y Δlong 10' E (apartamiento ≈ 8,1'). Distancia ≈ 21,6 millas. T = 21,6 / 8 = 2,7 h = 2 h 42 min.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-028",
+   "tema": 11,
+   "enunciado": "Situados en un punto -A- de coordenadas = 35º 55’N – 006º 10'W, damos rumbo al Puerto de Barbate (luz FIR4s5M del extremo del espigón del puerto), teniendo en cuenta una declinación magnética de 2º NW y un desvío de aguja de = +2º. Calcular el rumbo de aguja:",
+   "opciones": [
+    "041º",
+    "036º",
+    "031º",
+    "027º"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = −2 + 2 = 0º, así que Ra = Rv. El rumbo verdadero medido en la carta a Barbate es 036º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "11 junio 2025 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-029",
+   "tema": 11,
+   "enunciado": "A HRB 11:00 nos encontramos sobre la línea de la oposición de los faros de Punta Almina y Punta Europa y obtenemos distancia al faro de Punta Carnero = 6 millas. Desde esa posición, damos rumbo para pasar a 3' al Ev de Punta Almina, teniendo en cuenta que no hay viento ni corriente. Calcule que Rumbo de aguja deberemos de poner, sabiendo que la corrección total es de 5º NE:",
+   "opciones": [
+    "162º",
+    "152º",
+    "142º",
+    "132º"
+   ],
+   "correcta": 2,
+   "justificacion": "Situación por la oposición y la distancia a Punta Carnero. Rv medido hasta 3' al este de Almina ≈ 147º; con Ct +5º, Ra = 147 − 5 = 142º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "12 noviembre 2025 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-030",
+   "tema": 11,
+   "enunciado": "A Hora Reloj Bitácora (HRB)= 1030 tomamos simultáneamente demoras verdaderas a los faros: Punta Carnero= 316º y Punta Cires= 233º ¿Cuál será nuestra posición en ese instante?",
+   "opciones": [
+    "36º 02'N - 005º 22'W",
+    "36º 00'N - 005º 20'W",
+    "35º 58'N - 005º 18'W",
+    "36º 03'N - 005º 23'W"
+   ],
+   "correcta": 1,
+   "justificacion": "Se trazan desde los faros las dos demoras verdaderas (Punta Carnero 316º y Punta Cires 233º). El corte es la situación. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "13 marzo-2026_examen_con_plantilla.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-031",
+   "tema": 11,
+   "enunciado": "Nos encontramos situados en la línea de la oposición de los faros Isla Tarifa - Punta Alcázar y a 7 millas de distancia del faro de Punta Cires. ¿Cuál será el valor de nuestra latitud?",
+   "opciones": [
+    "36º 00,9’N",
+    "35º 58,3’N",
+    "35º 56,2'N",
+    "35º 55,0’N"
+   ],
+   "correcta": 1,
+   "justificacion": "Situación por la oposición Isla Tarifa-Punta Alcázar y el arco de 7 millas desde Punta Cires; se lee la latitud en la escala lateral. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "13 marzo-2026_examen_con_plantilla.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-032",
+   "tema": 11,
+   "enunciado": "Nos encontramos situados en la línea de oposición de los faros de Punta Europa y de Punta Almina, y tomamos distancia al faro de Punta Carnero = 5 millas. ¿Cuánto tiempo tardaremos en llegar al puerto de Ceuta (luz verde del espigón de poniente) a una velocidad de 7 nudos?",
+   "opciones": [
+    "1 hora y 12 minutos",
+    "1 hora y 43 minutos",
+    "1 hora y 37 minutos",
+    "1 hora y 22 minutos"
+   ],
+   "correcta": 3,
+   "justificacion": "Situación por oposición y distancia. Distancia medida a Ceuta ≈ 9,6 millas; T = 9,6 / 7 ≈ 1,37 h = 1 h 22 min. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "14 junio-2026_examen_con_plantilla.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-033",
+   "tema": 11,
+   "enunciado": "A Hrb 15:30 nos encontramos en un punto de situación: l: 35º 50’ N - L: 005º 48’ W y damos rumbo para pasar a 5 millas de Cabo Espartel. Calcular el rumbo de aguja (Ra) sabiendo que la CT= - 003º.",
+   "opciones": [
+    "Ra= 121º",
+    "Ra= 115º",
+    "Ra= 301º",
+    "Ra= 295º"
+   ],
+   "correcta": 2,
+   "justificacion": "Ct = −3º. El Rv medido para pasar a 5 millas de Espartel es 298º, así que Ra = Rv − Ct = 298 + 3 = 301º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "14 junio-2026_examen_con_plantilla.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-034",
+   "tema": 11,
+   "enunciado": "Calcular Ra a poner en el timón si salimos de Isla Tarifa en dirección Punta Cires, sabiendo que la corrección total es de CT= -5º.",
+   "opciones": [
+    "Ra 131°",
+    "Ra 126°",
+    "Ra 130°",
+    "Ra 137°"
+   ],
+   "correcta": 3,
+   "justificacion": "Ct = −5º. El Rv de Isla de Tarifa a Punta Cires medido en la carta es 132º, así que Ra = 132 + 5 = 137º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "14 junio-2026_examen_con_plantilla.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-035",
+   "tema": 11,
+   "enunciado": "Nos encontramos navegando con Rumbo de aguja 120°, desvío 2° NW, declinación magnética 3° NW, y obtenemos simultáneamente marcación a Punta Paloma 108° por babor y marcación a Punta Alcázar 5° por estribor. ¿A qué distancia de Punta Malabata se encuentra la embarcación?",
+   "opciones": [
+    "2,6 millas",
+    "6,9 millas",
+    "8,2 millas",
+    "9,0 millas"
+   ],
+   "correcta": 1,
+   "justificacion": "Ct = −2 − 3 = −5º, Rv = 120 − 5 = 115º. Dv a Punta Paloma = 115 − 108 = 007º; Dv a Punta Alcázar = 115 + 5 = 120º. El corte da la situación. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 42"
+   ]
+  },
+  {
+   "id": "t11-036",
+   "tema": 11,
+   "enunciado": "Situados en la línea de la oposición de los faros Trafalgar – Punta de Gracia, se toma distancia al faro principal de Barbate = 6 millas, dándonos la posición A. Desde ese punto A, se da rumbo verdadero hacia un punto B, en la carta, cuya posición es 35°55’N - 06°10’W. ¿Cuál será el rumbo verdadero para llegar al punto B?",
+   "opciones": [
+    "223°",
+    "233°",
+    "243°",
+    "253°"
+   ],
+   "correcta": 1,
+   "justificacion": "Situación A por la oposición y la distancia a Barbate. Se une A con B (35º55'N 6º10'W) y se mide el rumbo verdadero: 233º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 43"
+   ]
+  },
+  {
+   "id": "t11-037",
+   "tema": 11,
+   "enunciado": "Con una variación local de 1,5° NW y un desvío de aguja de (-2,5°), nos encontramos situados en un punto C de coordenadas 36°00’N - 06°10’W. Desde esta posición damos rumbo hacia el extremo del espigón del puerto de Tánger (Faro del espigón). ¿Qué rumbo de aguja habría que poner para llegar a Tánger?",
+   "opciones": [
+    "128°",
+    "120°",
+    "124°",
+    "116°"
+   ],
+   "correcta": 0,
+   "justificacion": "Ct = −1,5 − 2,5 = −4º. El Rv medido al espigón de Tánger es 124º, así que Ra = Rv − Ct = 124 + 4 = 128º. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 44"
+   ]
+  },
+  {
+   "id": "t11-038",
+   "tema": 11,
+   "enunciado": "A HRB 0800 vemos el faro de Punta Europa por la demora verdadera 290° y distancia a dicho faro 9 millas. Indique la posición en la que nos encontramos.",
+   "opciones": [
+    "36°03,6’N 005°10,2’W",
+    "36°06,5’N 005°16,4’W",
+    "36°02,2’N 005°12,4’W",
+    "36°01,1’N 005°13,2’W"
+   ],
+   "correcta": 0,
+   "justificacion": "Desde Punta Europa se traza la demora opuesta (290 − 180 = 110º) y se miden 9 millas sobre ella: esa es la situación. Se resuelve sobre la carta del Estrecho.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "7 marzo-2024 Tipo 1 ok 1.pdf nº 45"
+   ]
+  },
+  {
+   "id": "t11-039",
+   "tema": 11,
+   "enunciado": "A las 14:00 horas, en situación Latitud = 35º 50’N y Longitud = 006º 10’W, navegamos al Rumbo verdadero 060º y velocidad de 6 nudos. Calcule la situación a las 17:00 horas.",
+   "opciones": [
+    "36º 05,4’N – 006º 03,7’W",
+    "35º 58,8’N – 005º 51,0’W",
+    "36º 03,4’N – 005º 58,5’W",
+    "36º 03,4’N – 006º 03,7’W"
+   ],
+   "correcta": 1,
+   "justificacion": "Distancia = 6 nudos × 3 h = 18 millas al Rv 060º: Δlat ≈ 9' N y Δlong ≈ 19' E, lo que da 35º58,8'N 005º51,0'W.",
+   "fuente": "Unidad 11 Fórmulas Carta Navegación 2.pdf, pág. 1",
+   "verificada": true,
+   "origen": [
+    "9 noviembre-24 ok.pdf nº 44"
+   ]
   }
  ]
 }
