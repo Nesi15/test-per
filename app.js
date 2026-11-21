@@ -345,17 +345,40 @@ VIEWS.setupFalladas = () => {
   let n = 'all';
   const porTema = {};
   ids.forEach(id => { const t = BY_ID[id].tema; porTema[t] = (porTema[t] || 0) + 1; });
+  const temas = Object.keys(porTema).map(Number).sort((a, b) => a - b);
   $app.innerHTML = `
     <div class="card"><h2>${ids.length} preguntas por repasar</h2>
     <p class="muted">Una pregunta sale de aquí cuando la aciertas 2 veces seguidas, en cualquier modo.</p>
-    <table>${Object.keys(porTema).sort((a, b) => a - b).map(t => `<tr><td>${t}. ${esc(temaName(t))}</td><td class="num">${porTema[t]}</td></tr>`).join('')}</table></div>
+    <div class="check-list">
+      <label class="check"><input type="checkbox" id="all" checked><span class="info"><strong>Todos los temas</strong></span></label>
+      ${temas.map(t => `<label class="check"><input type="checkbox" value="${t}" checked>
+        <span class="info">${t}. ${esc(temaName(t))}<small>${porTema[t]} fallada${porTema[t] === 1 ? '' : 's'}</small></span></label>`).join('')}
+    </div></div>
     <div class="field">Número de preguntas</div>
-    <div id="nchips">${chipsHTML([10, 20, 'all'], n, v => v === 'all' ? `Todas (${ids.length})` : v)}</div>`;
+    <div id="nchips">${chipsHTML([10, 20, 'all'], n, v => v === 'all' ? `Todas (<span id="nsel">${ids.length}</span>)` : v)}</div>`;
   bindChips(document.getElementById('nchips'), v => n = v);
-  bottomButton('Empezar repaso', () => {
-    const sel = shuffle(ids).sort((a, b) => S.q[b].ko - S.q[a].ko).slice(0, n === 'all' ? ids.length : +n);
-    confirmReplace(() => startSession('falladas', shuffle(sel), { title: 'Repaso de falladas' }));
+  const boxes = [...$app.querySelectorAll('.check input[value]')];
+  const all = document.getElementById('all');
+  const elegidas = () => {
+    const sel = boxes.filter(b => b.checked).map(b => +b.value);
+    return ids.filter(id => sel.includes(BY_ID[id].tema));
+  };
+  const btn = bottomButton('Empezar repaso', () => {
+    const pool = elegidas();
+    const temasSel = boxes.filter(b => b.checked).map(b => +b.value);
+    const sel = shuffle(pool).sort((a, b) => S.q[b].ko - S.q[a].ko).slice(0, n === 'all' ? pool.length : +n);
+    const title = temasSel.length === temas.length ? 'Repaso de falladas'
+      : `Falladas: tema${temasSel.length > 1 ? 's' : ''} ${temasSel.join(', ')}`;
+    confirmReplace(() => startSession('falladas', shuffle(sel), { title, temas: temasSel }));
   }, !ids.length);
+  const refresh = () => {
+    const k = elegidas().length;
+    document.getElementById('nsel').textContent = k;
+    btn.disabled = !k;
+    all.checked = boxes.every(b => b.checked);
+  };
+  boxes.forEach(b => b.addEventListener('change', refresh));
+  all.addEventListener('change', () => { boxes.forEach(b => b.checked = all.checked); refresh(); });
 };
 
 function setupExam(kind) {

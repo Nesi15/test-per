@@ -7,7 +7,7 @@ Está hecha con HTML, CSS y JavaScript puro, sin frameworks ni servidor, y funci
 - **Corrección al momento:** verde o rojo, la respuesta correcta y una justificación con su fuente.
 - **Guardado continuo:** el progreso se guarda en el navegador tras cada respuesta. Si cierras a mitad de un test, al volver aparece «Continuar donde lo dejaste».
 - **Vueltas sin repetir:** no se repiten preguntas hasta haber visto todas las del tema. Al empezar una vuelta nueva salen primero las falladas.
-- **Repasar falladas:** una pregunta sale de la lista cuando la aciertas 2 veces seguidas.
+- **Repasar falladas:** de todos los temas o solo de los que elijas. Una pregunta sale de la lista cuando la aciertas 2 veces seguidas.
 - **Copia de seguridad:** el progreso se puede exportar e importar (archivo o código) y reiniciar.
 
 ## Estructura
